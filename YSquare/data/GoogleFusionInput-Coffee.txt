@@ -1,0 +1,40 @@
+10001	CoffeeShop	3.975	244	Caf??	3.725	80	American	3.925	64
+10002	CoffeeShop	3.875	93	Caf??	3.725	36	American	3.975	29
+10003	CoffeeShop	3.975	129	Caf??	3.675	43	American	3.975	35
+10004	CoffeeShop	3.4444444444444446	93	Caf??	3.625	26	Bar	3.6	27
+10005	Caf??	3.75	31	Bar	3.675	28	American	3.7	25
+10006	Caf??	3.8	27	Bar	3.7	28	American	3.7	25
+10007	CoffeeShop	3.825	90	Caf??	3.825	30	American	3.7	25
+10009	CoffeeShop	3.95	108	Caf??	3.75	41	American	3.975	33
+10010	CoffeeShop	3.75	109	Caf??	3.6	37	American	3.8	35
+10012	CoffeeShop	4.0	101	Caf??	3.475	40	Bar	4.075	31
+10013	CoffeeShop	3.925	98	Caf??	3.6	39	American	3.875	30
+10014	CoffeeShop	4.025	118	Caf??	3.85	41	American	3.9	30
+10016	CoffeeShop	3.975	121	Caf??	3.6578947368421053	40	Bar	4.075	37
+10017	CoffeeShop	3.85	126	Caf??	3.625	35	American	3.7	33
+10018	CoffeeShop	3.975	134	Caf??	3.65	42	American	3.9	42
+10019	CoffeeShop	3.9	119	Caf??	3.475	32	American	3.85	32
+10020	Caf??	3.375	47	Bar	3.875	35	American	3.775	33
+10021	CoffeeShop	3.95	108	Bar	3.925	35	American	3.775	35
+10022	CoffeeShop	3.9	127	Caf??	3.375	30	Bar	4.025	30	American	3.85	32
+10023	CoffeeShop	3.611111111111111	125	Bar	3.825	32	American	3.75	36
+10024	CoffeeShop	3.825	76	Burgers	3.675	23	American	3.675	25
+10025	CoffeeShop	3.55	78	Bar	3.7	25	American	3.675	26
+10026	Caf??	3.65	17	Bar	3.65	23	American	3.725	20
+10027	CoffeeShop	3.357142857142857	66	Bar	3.725	20	American	3.55	19
+10028	CoffeeShop	3.95	85	Caf??	3.4210526315789473	23	Bar	3.875	26	American	3.7	23
+10029	CoffeeShop	3.75	69	Bar	3.925	23	American	3.775	20
+10030	Caf??	3.9	15	Bar	3.825	20	American	3.575	19
+10031	Burgers	3.55	14	Bar	3.9	18	American	3.825	11
+10032	Caf??	3.775	13	Burgers	3.675	13	Bar	3.55	23	American	3.625	17
+10033	CoffeeShop	3.375	71	Bar	3.65	23	American	3.625	20
+10034	Pizza	3.925	16	CoffeeShop	4.05	39	Burgers	3.35	15
+10035	CoffeeShop	3.625	67	Bar	3.975	24	American	3.75	21
+10036	CoffeeShop	4.075	133	Caf??	3.45	37	American	3.95	41
+10037	Burgers	3.175	14	Bar	3.975	18	American	3.575	11
+10038	CoffeeShop	3.625	90	Caf??	3.75	30	American	3.825	26
+10039	Caf??	3.325	13	Burgers	3.3947368421052633	13	Bar	3.875	20	American	4.0	16
+10040	Burgers	3.225	13	Bar	3.5	20	American	3.75	13
+10044	CoffeeShop	3.9	91	Bar	3.975	27	American	3.75	27
+10128	CoffeeShop	3.875	105	Bar	3.925	30	American	3.775	27
+10280	CoffeeShop	3.6538461538461537	102	Caf??	3.625	32	Bar	3.75	29

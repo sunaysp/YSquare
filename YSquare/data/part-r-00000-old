@@ -1,0 +1,6025 @@
+10001-Accessories	2
+10001-American	64
+10001-Antiques	2
+10001-Apparel	16
+10001-Arcade	2
+10001-Art Gallery	4
+10001-Arts & Crafts	8
+10001-Asian	10
+10001-Australian	4
+10001-B & B	6
+10001-BBQ	18
+10001-Bagels	18
+10001-Bakery	38
+10001-Bar	60
+10001-Beach	4
+10001-Beer Garden	4
+10001-Boat / Ferry	2
+10001-Bookstore	2
+10001-Brazilian	4
+10001-Breakfast	14
+10001-Brewery	8
+10001-Buffet	2
+10001-Burgers	46
+10001-Burritos	2
+10001-Bus Station	2
+10001-Caf??	80
+10001-Candy Store	2
+10001-Caribbean	6
+10001-Casino	2
+10001-Chinese	14
+10001-Chocolate Shop	2
+10001-Cineplex	2
+10001-City	2
+10001-Cocktail	46
+10001-Coffee Shop	244
+10001-Comedy Club	2
+10001-Conference	2
+10001-Convenience Stores	2
+10001-Cosmetics	2
+10001-Coworking Space	2
+10001-Creperie	4
+10001-Cricket	2
+10001-Cuban	2
+10001-Cultural Center	2
+10001-Cupcakes	4
+10001-Cycle Studio	8
+10001-Deli / Bodega	14
+10001-Design	4
+10001-Desserts	24
+10001-Diner	8
+10001-Dive Bar	8
+10001-Donuts	2
+10001-Dumplings	4
+10001-Eastern European	2
+10001-Electronics	4
+10001-Entertainment	6
+10001-Event Space	4
+10001-Factory	2
+10001-Fair	4
+10001-Falafel	2
+10001-Farm	2
+10001-Farmer's Market	4
+10001-Fast Food	10
+10001-Filipino	8
+10001-Fish & Chips	2
+10001-Fish Market	2
+10001-Flea Market	4
+10001-Food	2
+10001-Food & Drink	2
+10001-Food Court	4
+10001-Food Truck	4
+10001-Football	2
+10001-French	16
+10001-Fried Chicken	6
+10001-Frozen Yogurt	8
+10001-Furniture / Home	4
+10001-Garden	2
+10001-Gastropub	8
+10001-Gay Bar	2
+10001-German	6
+10001-Gourmet	8
+10001-Greek	4
+10001-Grocery Store	4
+10001-Gym	12
+10001-Gym / Fitness	14
+10001-Halal	2
+10001-Health Food Store	2
+10001-High School	4
+10001-Home	6
+10001-Hostel	2
+10001-Hot Dogs	2
+10001-Hotel	18
+10001-Hotel Bar	2
+10001-Ice Cream	34
+10001-Indian	14
+10001-Indie	2
+10001-Italian	38
+10001-Japanese	14
+10001-Juice Bar	24
+10001-Karaoke	8
+10001-Korean	12
+10001-Lab	2
+10001-Latin American	2
+10001-Laundry	2
+10001-Liquor Store	2
+10001-Lounge	10
+10001-Mall	6
+10001-Market	4
+10001-Mediterranean	10
+10001-Men's Store	4
+10001-Mexican	34
+10001-Middle Eastern	6
+10001-Molecular Gastronomy	2
+10001-Movie Theater	2
+10001-Museum	4
+10001-Music Venue	10
+10001-Nail Salon	2
+10001-New American	28
+10001-Nightclub	14
+10001-Nightlife	4
+10001-Office	6
+10001-Organic Grocery	2
+10001-Other Event	4
+10001-Other Outdoors	2
+10001-Park	6
+10001-Performing Arts	8
+10001-Peruvian	2
+10001-Pet Store	2
+10001-Pizza	22
+10001-Plaza	2
+10001-Professional	2
+10001-Public Art	4
+10001-Ramen / Noodles	16
+10001-Record Shop	6
+10001-Residential	6
+10001-Restaurant	32
+10001-River	2
+10001-Rock Club	2
+10001-Roof Deck	2
+10001-Salad	4
+10001-Salon / Barbershop	18
+10001-Sandwiches	26
+10001-Seafood	12
+10001-Shoes	2
+10001-Social Club	2
+10001-Soup	2
+10001-South American	2
+10001-Southern / Soul	6
+10001-Spanish	8
+10001-Speakeasy	4
+10001-Spiritual	2
+10001-Sporting Goods	2
+10001-Steakhouse	8
+10001-Street Food Gathering	4
+10001-Supermarket	8
+10001-Sushi	10
+10001-TV Station	2
+10001-Tacos	8
+10001-Tapas	4
+10001-Tattoo	2
+10001-Tea Room	8
+10001-Tech Startup	16
+10001-Thai	2
+10001-Theater	8
+10001-Theme Park	4
+10001-Town	2
+10001-Trail	2
+10001-Train Station	2
+10001-Travel	2
+10001-Turkish	8
+10001-Vegetarian / Vegan	6
+10001-Vietnamese	6
+10001-Vineyard	2
+10001-Volcano	2
+10001-Whisky Bar	4
+10001-Wine Bar	8
+10001-Winery	2
+10001-Yoga Studio	4
+10002-Accessories	1
+10002-American	29
+10002-Antiques	1
+10002-Apparel	4
+10002-Arcade	4
+10002-Art Gallery	5
+10002-Arts & Crafts	3
+10002-Asian	3
+10002-Australian	2
+10002-B & B	5
+10002-BBQ	6
+10002-Bagels	3
+10002-Bakery	18
+10002-Bar	20
+10002-Beach	2
+10002-Boat / Ferry	1
+10002-Bookstore	4
+10002-Boutique	2
+10002-Breakfast	7
+10002-Brewery	7
+10002-Bubble Tea	1
+10002-Buffet	1
+10002-Burgers	19
+10002-Burritos	2
+10002-Caf??	36
+10002-Cafeteria	1
+10002-Cajun / Creole	2
+10002-Caribbean	3
+10002-Casino	1
+10002-Chinese	4
+10002-Chocolate Shop	1
+10002-City	1
+10002-Cocktail	15
+10002-Coffee Shop	93
+10002-Cosmetics	1
+10002-Cuban	1
+10002-Cultural Center	1
+10002-Cupcakes	1
+10002-Cycle Studio	3
+10002-Deli / Bodega	6
+10002-Dentist's Office	1
+10002-Department Store	1
+10002-Design	1
+10002-Desserts	11
+10002-Diner	5
+10002-Dive Bar	1
+10002-Dumplings	1
+10002-Eastern European	1
+10002-Electronics	1
+10002-Entertainment	3
+10002-Ethiopian	1
+10002-Event Space	1
+10002-Factory	1
+10002-Fair	2
+10002-Falafel	1
+10002-Farm	1
+10002-Fast Food	1
+10002-Fish & Chips	2
+10002-Fish Market	1
+10002-Flea Market	3
+10002-Food	1
+10002-Food Court	1
+10002-Food Truck	4
+10002-French	7
+10002-Frozen Yogurt	2
+10002-Furniture / Home	2
+10002-Garden	1
+10002-Gastropub	3
+10002-German	3
+10002-Gift Shop	1
+10002-Greek	2
+10002-Grocery Store	1
+10002-Gym	4
+10002-Gym / Fitness	5
+10002-Halal	2
+10002-Hawaiian	1
+10002-High School	1
+10002-Hobbies	1
+10002-Home	5
+10002-Home Cooking	1
+10002-Hot Dogs	1
+10002-Hotel	6
+10002-Hotel Bar	1
+10002-Ice Cream	13
+10002-Indian	6
+10002-Indie	1
+10002-Italian	14
+10002-Japanese	10
+10002-Juice Bar	11
+10002-Karaoke	2
+10002-Korean	7
+10002-Latin American	1
+10002-Laundry	1
+10002-Lounge	5
+10002-Mall	3
+10002-Mediterranean	3
+10002-Men's Store	1
+10002-Mexican	14
+10002-Middle Eastern	1
+10002-Movie Theater	1
+10002-Museum	5
+10002-Music Venue	1
+10002-Nail Salon	1
+10002-New American	6
+10002-Nightclub	7
+10002-Nightlife	2
+10002-Office	3
+10002-Other Event	2
+10002-Outdoor Sculpture	1
+10002-Park	4
+10002-Performing Arts	3
+10002-Pet Service	1
+10002-Photography Lab	1
+10002-Pizza	14
+10002-Plaza	1
+10002-Professional	1
+10002-Pub	2
+10002-Public Art	2
+10002-Ramen / Noodles	7
+10002-Record Shop	2
+10002-Residential	3
+10002-Restaurant	10
+10002-River	2
+10002-Rock Club	1
+10002-Roof Deck	1
+10002-Salad	1
+10002-Salon / Barbershop	6
+10002-Sandwiches	11
+10002-Seafood	4
+10002-Shoes	1
+10002-Shop	1
+10002-Soccer	1
+10002-Soup	1
+10002-South American	2
+10002-Southern / Soul	6
+10002-Spanish	3
+10002-Speakeasy	2
+10002-Sporting Goods	1
+10002-Sports Bar	2
+10002-Steakhouse	1
+10002-Street Food Gathering	1
+10002-Supermarket	1
+10002-Sushi	1
+10002-TV Station	1
+10002-Tacos	4
+10002-Tapas	2
+10002-Tattoo	1
+10002-Tea Room	4
+10002-Tech Startup	3
+10002-Theater	1
+10002-Theme Park	4
+10002-Thrift / Vintage	1
+10002-Travel	1
+10002-Vegetarian / Vegan	4
+10002-Vietnamese	5
+10002-Village	1
+10002-Vineyard	1
+10002-Volcano	1
+10002-Whisky Bar	1
+10002-Wine Bar	1
+10002-Yoga Studio	1
+10002-Zoo	1
+10003-Accessories	1
+10003-American	35
+10003-Antiques	1
+10003-Apparel	6
+10003-Arcade	3
+10003-Art Gallery	3
+10003-Art Museum	1
+10003-Arts & Crafts	3
+10003-Asian	8
+10003-Australian	3
+10003-Automotive	1
+10003-B & B	2
+10003-BBQ	10
+10003-Bagels	9
+10003-Bakery	17
+10003-Bar	33
+10003-Beach	2
+10003-Beer Garden	4
+10003-Boat / Ferry	1
+10003-Bookstore	2
+10003-Boutique	2
+10003-Breakfast	9
+10003-Brewery	4
+10003-Bubble Tea	3
+10003-Buffet	1
+10003-Burgers	22
+10003-Burritos	2
+10003-Bus Station	1
+10003-Caf??	43
+10003-Candy Store	1
+10003-Caribbean	3
+10003-Casino	1
+10003-Chinese	8
+10003-Chocolate Shop	1
+10003-Church	1
+10003-City	2
+10003-Cocktail	20
+10003-Coffee Shop	129
+10003-Comedy Club	1
+10003-Comfort Food	1
+10003-Comic Shop	1
+10003-Cosmetics	1
+10003-Cuban	2
+10003-Cultural Center	1
+10003-Cupcakes	1
+10003-Cycle Studio	4
+10003-Daycare	1
+10003-Deli / Bodega	6
+10003-Design	1
+10003-Desserts	16
+10003-Diner	5
+10003-Distillery	1
+10003-Dive Bar	3
+10003-Donuts	3
+10003-Dumplings	1
+10003-Eastern European	2
+10003-Electronics	1
+10003-Emergency Room	1
+10003-Entertainment	5
+10003-Event Space	2
+10003-Eye Doctor	1
+10003-Factory	1
+10003-Fair	2
+10003-Falafel	1
+10003-Farm	2
+10003-Farmer's Market	1
+10003-Fast Food	8
+10003-Filipino	4
+10003-Fire Station	2
+10003-Fish & Chips	1
+10003-Fish Market	1
+10003-Flea Market	3
+10003-Food	1
+10003-Food & Drink	1
+10003-Food Court	2
+10003-Food Truck	5
+10003-Football	2
+10003-French	8
+10003-Fried Chicken	2
+10003-Frozen Yogurt	3
+10003-Furniture / Home	2
+10003-Garden	2
+10003-Gastropub	4
+10003-Gay Bar	1
+10003-German	4
+10003-Gift Shop	1
+10003-Gluten-free	1
+10003-Gourmet	3
+10003-Greek	1
+10003-Grocery Store	1
+10003-Gym	5
+10003-Gym / Fitness	4
+10003-Halal	2
+10003-Health Food Store	1
+10003-High School	2
+10003-Home	8
+10003-Hostel	2
+10003-Hot Dogs	1
+10003-Hotel	10
+10003-Hotel Bar	2
+10003-Ice Cream	22
+10003-Indian	8
+10003-Indie	1
+10003-Indonesian	1
+10003-Italian	23
+10003-Japanese	11
+10003-Juice Bar	6
+10003-Karaoke	4
+10003-Korean	3
+10003-Latin American	1
+10003-Laundry	1
+10003-Lingerie	1
+10003-Liquor Store	2
+10003-Lounge	6
+10003-Mall	2
+10003-Market	1
+10003-Medical	2
+10003-Mediterranean	4
+10003-Men's Store	2
+10003-Mexican	20
+10003-Middle Eastern	2
+10003-Movie Theater	1
+10003-Museum	3
+10003-Music Venue	3
+10003-Nail Salon	1
+10003-New American	13
+10003-Nightclub	11
+10003-Nightlife	3
+10003-Office	3
+10003-Office Supplies	1
+10003-Optical	1
+10003-Other Event	2
+10003-Pakistani	1
+10003-Park	3
+10003-Performing Arts	3
+10003-Peruvian	1
+10003-Pharmacy	1
+10003-Photography Lab	1
+10003-Pie Shop	1
+10003-Pizza	15
+10003-Plaza	1
+10003-Professional	1
+10003-Pub	3
+10003-Public Art	2
+10003-Ramen / Noodles	11
+10003-Record Shop	3
+10003-Residential	3
+10003-Restaurant	11
+10003-River	1
+10003-Road	1
+10003-Rock Club	1
+10003-Roof Deck	1
+10003-Salad	4
+10003-Salon / Barbershop	10
+10003-Sandwiches	8
+10003-School	1
+10003-Seafood	8
+10003-Shoes	2
+10003-Shop	1
+10003-Snacks	2
+10003-Social Club	2
+10003-Soup	1
+10003-South American	2
+10003-Southern / Soul	6
+10003-Spa	1
+10003-Spanish	4
+10003-Speakeasy	3
+10003-Sporting Goods	3
+10003-Sports Bar	1
+10003-Steakhouse	3
+10003-Street Food Gathering	1
+10003-Supermarket	3
+10003-Sushi	6
+10003-TV Station	1
+10003-Tacos	3
+10003-Tapas	2
+10003-Tattoo	1
+10003-Tea Room	4
+10003-Tech Startup	5
+10003-Thai	2
+10003-Theater	1
+10003-Theme Park	2
+10003-Town	1
+10003-Tram	1
+10003-Travel	2
+10003-Turkish	2
+10003-Ukrainian	1
+10003-Vegetarian / Vegan	2
+10003-Vietnamese	5
+10003-Vineyard	1
+10003-Volcano	1
+10003-Whisky Bar	1
+10003-Wine Bar	5
+10003-Yoga Studio	1
+10004-Accessories	1
+10004-American	25
+10004-Antiques	1
+10004-Apparel	4
+10004-Arcade	3
+10004-Art Gallery	4
+10004-Arts & Crafts	3
+10004-Asian	1
+10004-Australian	3
+10004-B & B	1
+10004-BBQ	6
+10004-Bagels	2
+10004-Bakery	11
+10004-Bar	27
+10004-Basketball	1
+10004-Beach	2
+10004-Beer Garden	2
+10004-Boat / Ferry	1
+10004-Bookstore	4
+10004-Breakfast	9
+10004-Brewery	5
+10004-Building	1
+10004-Burgers	13
+10004-Burritos	1
+10004-Caf??	26
+10004-Cafeteria	1
+10004-Caribbean	3
+10004-Chinese	6
+10004-Chocolate Shop	1
+10004-Cineplex	1
+10004-Cocktail	9
+10004-Coffee Shop	93
+10004-Concert Hall	1
+10004-Cosmetics	2
+10004-Coworking Space	2
+10004-Cuban	1
+10004-Cultural Center	1
+10004-Cupcakes	1
+10004-Cycle Studio	2
+10004-Deli / Bodega	4
+10004-Dentist's Office	1
+10004-Department Store	1
+10004-Design	1
+10004-Desserts	7
+10004-Diner	5
+10004-Dive Bar	2
+10004-Donuts	1
+10004-Dumplings	1
+10004-Eastern European	1
+10004-Electronics	1
+10004-Entertainment	4
+10004-Factory	1
+10004-Fair	1
+10004-Falafel	2
+10004-Field	1
+10004-Fish & Chips	1
+10004-Fish Market	1
+10004-Flea Market	3
+10004-Food	1
+10004-Food Court	2
+10004-Food Truck	3
+10004-French	10
+10004-Frozen Yogurt	1
+10004-Furniture / Home	1
+10004-Gastropub	7
+10004-German	3
+10004-Gourmet	4
+10004-Greek	3
+10004-Grocery Store	1
+10004-Gym	4
+10004-Gym / Fitness	4
+10004-Hawaiian	1
+10004-High School	1
+10004-Home	4
+10004-Home Cooking	1
+10004-Hot Dogs	1
+10004-Hotel	4
+10004-Hotel Bar	1
+10004-Ice Cream	14
+10004-Indian	9
+10004-Indie	1
+10004-Irish	1
+10004-Italian	15
+10004-Japanese	11
+10004-Jewelry	1
+10004-Juice Bar	10
+10004-Karaoke	2
+10004-Korean	10
+10004-Latin American	1
+10004-Laundry	1
+10004-Lounge	2
+10004-Mall	1
+10004-Mediterranean	6
+10004-Mexican	14
+10004-Middle Eastern	1
+10004-Movie Theater	2
+10004-Museum	4
+10004-Music Venue	2
+10004-Nail Salon	1
+10004-New American	7
+10004-Nightclub	6
+10004-Nightlife	1
+10004-Office	1
+10004-Other Event	1
+10004-Outdoor Sculpture	1
+10004-Park	3
+10004-Performing Arts	3
+10004-Pet Service	1
+10004-Pizza	16
+10004-Professional	1
+10004-Pub	1
+10004-Public Art	2
+10004-Ramen / Noodles	7
+10004-Record Shop	2
+10004-Residential	3
+10004-Restaurant	6
+10004-River	1
+10004-Rock Club	1
+10004-Roof Deck	1
+10004-Russian	1
+10004-Salad	3
+10004-Salon / Barbershop	9
+10004-Sandwiches	9
+10004-Seafood	5
+10004-Shoes	1
+10004-Soup	1
+10004-South Indian	2
+10004-Southern / Soul	2
+10004-Spa	1
+10004-Spanish	2
+10004-Speakeasy	2
+10004-Sports Bar	1
+10004-Street Food Gathering	4
+10004-Supermarket	1
+10004-Sushi	1
+10004-TV Station	1
+10004-Tacos	4
+10004-Tapas	2
+10004-Tea Room	1
+10004-Tech Startup	2
+10004-Theater	2
+10004-Theme Park	4
+10004-Thrift / Vintage	1
+10004-Train Station	1
+10004-Travel	1
+10004-Vegetarian / Vegan	7
+10004-Vietnamese	6
+10004-Village	1
+10004-Vineyard	1
+10004-Wine Bar	2
+10004-Yoga Studio	1
+10004-Zoo	1
+10005-Accessories	1
+10005-American	25
+10005-Antiques	1
+10005-Apparel	4
+10005-Arcade	3
+10005-Art Gallery	3
+10005-Arts & Crafts	2
+10005-Asian	2
+10005-Australian	2
+10005-B & B	1
+10005-BBQ	5
+10005-Bagels	2
+10005-Bakery	11
+10005-Bar	28
+10005-Basketball	1
+10005-Beach	3
+10005-Beer Garden	2
+10005-Boat / Ferry	1
+10005-Bookstore	3
+10005-Breakfast	7
+10005-Brewery	5
+10005-Bubble Tea	1
+10005-Building	1
+10005-Burgers	16
+10005-Burritos	2
+10005-Caf??	31
+10005-Cafeteria	1
+10005-Caribbean	3
+10005-Chinese	3
+10005-Chocolate Shop	1
+10005-Cocktail	14
+10005-Coffee Shop	92
+10005-Concert Hall	1
+10005-Cosmetics	1
+10005-Cuban	1
+10005-Cultural Center	1
+10005-Cupcakes	1
+10005-Cycle Studio	1
+10005-Deli / Bodega	4
+10005-Dentist's Office	1
+10005-Desserts	7
+10005-Diner	5
+10005-Dive Bar	1
+10005-Donuts	1
+10005-Dumplings	1
+10005-Eastern European	1
+10005-Electronics	1
+10005-Entertainment	1
+10005-Factory	1
+10005-Fair	2
+10005-Falafel	1
+10005-Farm	1
+10005-Fast Food	1
+10005-Fish & Chips	1
+10005-Fish Market	1
+10005-Flea Market	2
+10005-Food	1
+10005-Food Court	1
+10005-Food Truck	4
+10005-French	10
+10005-Frozen Yogurt	1
+10005-Furniture / Home	1
+10005-Gastropub	5
+10005-German	3
+10005-Gourmet	3
+10005-Greek	2
+10005-Grocery Store	1
+10005-Gym	4
+10005-Gym / Fitness	3
+10005-Halal	1
+10005-Hawaiian	1
+10005-High School	1
+10005-Home	3
+10005-Home Cooking	1
+10005-Hot Dogs	1
+10005-Hotel	4
+10005-Hotel Bar	1
+10005-Ice Cream	13
+10005-Indian	7
+10005-Indie	1
+10005-Italian	15
+10005-Japanese	11
+10005-Juice Bar	9
+10005-Karaoke	3
+10005-Korean	10
+10005-Latin American	1
+10005-Laundry	1
+10005-Lounge	3
+10005-Mediterranean	3
+10005-Mexican	11
+10005-Middle Eastern	1
+10005-Museum	4
+10005-Music Venue	2
+10005-Nail Salon	1
+10005-New American	7
+10005-Nightclub	8
+10005-Nightlife	2
+10005-Office	1
+10005-Other Event	1
+10005-Outdoor Sculpture	1
+10005-Park	3
+10005-Performing Arts	3
+10005-Pet Service	1
+10005-Pizza	16
+10005-Professional	1
+10005-Pub	1
+10005-Ramen / Noodles	7
+10005-Record Shop	2
+10005-Residential	3
+10005-Restaurant	7
+10005-River	1
+10005-Rock Club	1
+10005-Roof Deck	1
+10005-Russian	1
+10005-Salad	2
+10005-Salon / Barbershop	6
+10005-Sandwiches	8
+10005-School	1
+10005-Seafood	7
+10005-Shoes	1
+10005-Soup	1
+10005-South American	1
+10005-Southern / Soul	2
+10005-Spanish	2
+10005-Speakeasy	3
+10005-Sports Bar	2
+10005-Street Food Gathering	1
+10005-Supermarket	1
+10005-Sushi	1
+10005-TV Station	1
+10005-Tacos	4
+10005-Tapas	1
+10005-Tea Room	2
+10005-Tech Startup	2
+10005-Theater	1
+10005-Theme Park	4
+10005-Thrift / Vintage	1
+10005-Train Station	1
+10005-Travel	1
+10005-Vegetarian / Vegan	5
+10005-Vietnamese	7
+10005-Village	1
+10005-Vineyard	1
+10005-Wine Bar	1
+10005-Yoga Studio	1
+10005-Zoo	1
+10006-Accessories	1
+10006-American	25
+10006-Antiques	1
+10006-Apparel	4
+10006-Arcade	3
+10006-Art Gallery	4
+10006-Arts & Crafts	3
+10006-Asian	3
+10006-Australian	3
+10006-B & B	1
+10006-BBQ	3
+10006-Bagels	2
+10006-Bakery	10
+10006-Bar	28
+10006-Basketball	1
+10006-Beach	3
+10006-Beer Garden	2
+10006-Boat / Ferry	1
+10006-Bookstore	4
+10006-Breakfast	8
+10006-Brewery	5
+10006-Bubble Tea	1
+10006-Building	1
+10006-Burgers	16
+10006-Burritos	2
+10006-Caf??	27
+10006-Cafeteria	1
+10006-Caribbean	3
+10006-Chinese	4
+10006-Chocolate Shop	1
+10006-Cineplex	1
+10006-Cocktail	13
+10006-Coffee Shop	95
+10006-Concert Hall	1
+10006-Cosmetics	2
+10006-Coworking Space	1
+10006-Cuban	1
+10006-Cultural Center	1
+10006-Cupcakes	1
+10006-Cycle Studio	2
+10006-Deli / Bodega	4
+10006-Dentist's Office	1
+10006-Department Store	1
+10006-Design	1
+10006-Desserts	7
+10006-Diner	5
+10006-Dive Bar	2
+10006-Donuts	1
+10006-Dumplings	1
+10006-Electronics	1
+10006-Entertainment	3
+10006-Factory	1
+10006-Fair	2
+10006-Falafel	1
+10006-Farm	1
+10006-Fast Food	1
+10006-Fish & Chips	1
+10006-Fish Market	1
+10006-Flea Market	2
+10006-Food	1
+10006-Food Court	1
+10006-Food Truck	3
+10006-French	9
+10006-Frozen Yogurt	1
+10006-Furniture / Home	1
+10006-Gastropub	4
+10006-German	3
+10006-Gourmet	3
+10006-Greek	1
+10006-Grocery Store	1
+10006-Gym	4
+10006-Gym / Fitness	3
+10006-Halal	1
+10006-High School	1
+10006-Home	3
+10006-Home Cooking	1
+10006-Hot Dogs	1
+10006-Hotel	4
+10006-Hotel Bar	1
+10006-Ice Cream	13
+10006-Indian	9
+10006-Indie	1
+10006-Italian	15
+10006-Japanese	11
+10006-Jewelry	1
+10006-Juice Bar	10
+10006-Karaoke	3
+10006-Korean	10
+10006-Latin American	1
+10006-Laundry	1
+10006-Lounge	4
+10006-Mall	1
+10006-Mediterranean	4
+10006-Mexican	13
+10006-Middle Eastern	1
+10006-Movie Theater	2
+10006-Museum	4
+10006-Music Venue	3
+10006-Nail Salon	1
+10006-New American	6
+10006-Nightclub	7
+10006-Nightlife	2
+10006-Office	1
+10006-Other Event	1
+10006-Outdoor Sculpture	1
+10006-Park	2
+10006-Performing Arts	3
+10006-Pet Service	1
+10006-Pizza	14
+10006-Professional	1
+10006-Pub	1
+10006-Public Art	2
+10006-Ramen / Noodles	7
+10006-Residential	3
+10006-Restaurant	7
+10006-River	1
+10006-Rock Club	1
+10006-Roof Deck	1
+10006-Russian	1
+10006-Salad	2
+10006-Salon / Barbershop	7
+10006-Sandwiches	5
+10006-School	1
+10006-Seafood	7
+10006-Shoes	1
+10006-Soup	1
+10006-South American	1
+10006-South Indian	1
+10006-Southern / Soul	3
+10006-Spanish	3
+10006-Speakeasy	3
+10006-Sports Bar	2
+10006-Street Food Gathering	2
+10006-Supermarket	1
+10006-Sushi	2
+10006-TV Station	1
+10006-Tacos	4
+10006-Tapas	2
+10006-Tea Room	2
+10006-Tech Startup	2
+10006-Theater	2
+10006-Theme Park	4
+10006-Thrift / Vintage	1
+10006-Train Station	1
+10006-Travel	1
+10006-Vegetarian / Vegan	6
+10006-Vietnamese	4
+10006-Village	1
+10006-Vineyard	1
+10006-Wine Bar	2
+10006-Yoga Studio	1
+10006-Zoo	1
+10007-Accessories	1
+10007-American	25
+10007-Antiques	1
+10007-Apparel	4
+10007-Arcade	3
+10007-Art Gallery	3
+10007-Arts & Crafts	2
+10007-Asian	1
+10007-Australian	2
+10007-B & B	1
+10007-BBQ	8
+10007-Bagels	2
+10007-Bakery	12
+10007-Bar	22
+10007-Basketball	1
+10007-Beach	2
+10007-Beer Garden	2
+10007-Boat / Ferry	1
+10007-Bookstore	3
+10007-Brazilian	2
+10007-Breakfast	7
+10007-Brewery	5
+10007-Bubble Tea	1
+10007-Building	1
+10007-Burgers	17
+10007-Burritos	1
+10007-Bus Station	1
+10007-Caf??	30
+10007-Cafeteria	1
+10007-Caribbean	3
+10007-Chinese	3
+10007-Chocolate Shop	1
+10007-Cocktail	10
+10007-Coffee Shop	90
+10007-Cuban	1
+10007-Cultural Center	1
+10007-Cupcakes	1
+10007-Cycle Studio	1
+10007-Deli / Bodega	4
+10007-Dentist's Office	1
+10007-Desserts	7
+10007-Diner	3
+10007-Dive Bar	1
+10007-Dumplings	1
+10007-Eastern European	1
+10007-Electronics	1
+10007-Entertainment	1
+10007-Factory	1
+10007-Fair	2
+10007-Falafel	1
+10007-Farm	1
+10007-Farmer's Market	1
+10007-Fast Food	4
+10007-Fish & Chips	1
+10007-Fish Market	1
+10007-Flea Market	2
+10007-Food	1
+10007-Food Court	2
+10007-Food Truck	4
+10007-Football	1
+10007-French	8
+10007-Furniture / Home	1
+10007-Gastropub	5
+10007-Gay Bar	1
+10007-German	3
+10007-Gourmet	2
+10007-Greek	1
+10007-Grocery Store	1
+10007-Gym	3
+10007-Gym / Fitness	3
+10007-Halal	1
+10007-Hawaiian	1
+10007-Health Food Store	1
+10007-High School	1
+10007-Home	3
+10007-Home Cooking	1
+10007-Hostel	1
+10007-Hot Dogs	1
+10007-Hotel	4
+10007-Hotel Bar	1
+10007-Ice Cream	13
+10007-Indian	6
+10007-Indie	1
+10007-Italian	17
+10007-Japanese	10
+10007-Juice Bar	9
+10007-Karaoke	3
+10007-Korean	8
+10007-Latin American	1
+10007-Laundry	1
+10007-Lounge	4
+10007-Mall	1
+10007-Mediterranean	3
+10007-Men's Store	1
+10007-Mexican	10
+10007-Middle Eastern	1
+10007-Movie Theater	1
+10007-Museum	4
+10007-Music Venue	1
+10007-Nail Salon	1
+10007-Neighborhood	1
+10007-New American	5
+10007-Nightclub	7
+10007-Nightlife	2
+10007-Office	1
+10007-Other Event	1
+10007-Outdoor Sculpture	1
+10007-Park	4
+10007-Performing Arts	3
+10007-Peruvian	1
+10007-Pet Service	1
+10007-Pizza	16
+10007-Professional	1
+10007-Pub	1
+10007-Ramen / Noodles	8
+10007-Record Shop	2
+10007-Residential	3
+10007-Restaurant	8
+10007-River	1
+10007-Rock Club	1
+10007-Roof Deck	1
+10007-Salad	2
+10007-Salon / Barbershop	7
+10007-Sandwiches	9
+10007-Seafood	2
+10007-Shoes	1
+10007-Social Club	1
+10007-Soup	1
+10007-South American	1
+10007-Southern / Soul	2
+10007-Spanish	2
+10007-Speakeasy	2
+10007-Sports Bar	2
+10007-Steakhouse	1
+10007-Street Food Gathering	1
+10007-Supermarket	1
+10007-Sushi	1
+10007-TV Station	1
+10007-Tacos	3
+10007-Tapas	1
+10007-Tea Room	2
+10007-Tech Startup	3
+10007-Thai	1
+10007-Theater	1
+10007-Theme Park	4
+10007-Thrift / Vintage	1
+10007-Train Station	1
+10007-Travel	1
+10007-Turkish	1
+10007-Vegetarian / Vegan	4
+10007-Vietnamese	7
+10007-Village	1
+10007-Vineyard	1
+10007-Wine Bar	1
+10007-Yoga Studio	1
+10007-Zoo	1
+10009-Accessories	1
+10009-American	33
+10009-Antiques	1
+10009-Apparel	5
+10009-Arcade	2
+10009-Arepas	1
+10009-Art Gallery	3
+10009-Art Museum	1
+10009-Arts & Crafts	4
+10009-Asian	5
+10009-Australian	2
+10009-B & B	6
+10009-BBQ	4
+10009-Bagels	4
+10009-Bakery	19
+10009-Bar	28
+10009-Beach	3
+10009-Beer Garden	1
+10009-Beer Store	1
+10009-Belgian	1
+10009-Boat / Ferry	1
+10009-Bookstore	3
+10009-Brazilian	1
+10009-Breakfast	6
+10009-Brewery	7
+10009-Bubble Tea	1
+10009-Buffet	1
+10009-Burgers	25
+10009-Burritos	3
+10009-Bus Station	1
+10009-Caf??	41
+10009-Cajun / Creole	1
+10009-Caribbean	3
+10009-Casino	1
+10009-Chinese	5
+10009-Chocolate Shop	1
+10009-City	1
+10009-Cocktail	15
+10009-Coffee Shop	108
+10009-Convention	1
+10009-Cosmetics	2
+10009-Creperie	1
+10009-Cuban	1
+10009-Cultural Center	1
+10009-Cupcakes	1
+10009-Cycle Studio	3
+10009-Deli / Bodega	6
+10009-Department Store	1
+10009-Design	2
+10009-Desserts	14
+10009-Diner	7
+10009-Dive Bar	4
+10009-Dumplings	2
+10009-Electronics	3
+10009-Empanada	1
+10009-Entertainment	3
+10009-Event Space	2
+10009-Factory	1
+10009-Fair	2
+10009-Falafel	1
+10009-Farm	1
+10009-Farmer's Market	2
+10009-Fast Food	4
+10009-Fish & Chips	2
+10009-Fish Market	1
+10009-Flea Market	3
+10009-Food	1
+10009-Food Court	2
+10009-Food Truck	4
+10009-Football	1
+10009-French	6
+10009-Fried Chicken	4
+10009-Frozen Yogurt	2
+10009-Furniture / Home	2
+10009-Garden	1
+10009-Gastropub	4
+10009-Gay Bar	3
+10009-German	3
+10009-Gift Shop	1
+10009-Gourmet	1
+10009-Greek	1
+10009-Gym	2
+10009-Gym / Fitness	9
+10009-Halal	2
+10009-Health Food Store	1
+10009-High School	1
+10009-Home	5
+10009-Hostel	1
+10009-Hot Dogs	1
+10009-Hotel	6
+10009-Hotel Bar	2
+10009-Ice Cream	15
+10009-Indian	6
+10009-Indie	1
+10009-Italian	18
+10009-Japanese	8
+10009-Juice Bar	13
+10009-Karaoke	3
+10009-Korean	6
+10009-Latin American	1
+10009-Laundry	1
+10009-Lounge	7
+10009-Mall	3
+10009-Market	1
+10009-Mediterranean	3
+10009-Men's Store	2
+10009-Mexican	18
+10009-Middle Eastern	2
+10009-Movie Theater	2
+10009-Museum	3
+10009-Music Venue	6
+10009-Nail Salon	3
+10009-New American	10
+10009-Nightclub	13
+10009-Nightlife	4
+10009-Office	3
+10009-Organic Grocery	2
+10009-Other Event	3
+10009-Other Outdoors	1
+10009-Park	3
+10009-Performing Arts	2
+10009-Peruvian	1
+10009-Pharmacy	1
+10009-Photography Lab	1
+10009-Pizza	13
+10009-Plaza	1
+10009-Professional	1
+10009-Pub	2
+10009-Public Art	2
+10009-Ramen / Noodles	9
+10009-Record Shop	3
+10009-Residential	5
+10009-Restaurant	18
+10009-River	2
+10009-Rock Club	1
+10009-Roof Deck	1
+10009-Salad	2
+10009-Salon / Barbershop	9
+10009-Sandwiches	11
+10009-Scenic Lookout	1
+10009-Seafood	6
+10009-Shoes	1
+10009-Soccer	1
+10009-Social Club	1
+10009-Soup	1
+10009-South American	2
+10009-Southern / Soul	5
+10009-Spanish	3
+10009-Speakeasy	3
+10009-Sporting Goods	1
+10009-Sports Bar	2
+10009-Steakhouse	2
+10009-Street Food Gathering	1
+10009-Supermarket	2
+10009-Sushi	1
+10009-TV Station	1
+10009-Tacos	3
+10009-Tapas	4
+10009-Tattoo	2
+10009-Tea Room	7
+10009-Tech Startup	6
+10009-Thai	1
+10009-Theater	2
+10009-Theme Park	2
+10009-Town	1
+10009-Track	1
+10009-Trail	1
+10009-Travel	1
+10009-Turkish	2
+10009-Vegetarian / Vegan	3
+10009-Vietnamese	2
+10009-Vineyard	1
+10009-Volcano	1
+10009-Whisky Bar	2
+10009-Wine Bar	3
+10009-Wine Shop	1
+10009-Women's Store	1
+10009-Yoga Studio	2
+10010-Accessories	1
+10010-American	35
+10010-Antiques	1
+10010-Apparel	7
+10010-Arcade	1
+10010-Arepas	1
+10010-Art Gallery	2
+10010-Art Museum	1
+10010-Arts & Crafts	4
+10010-Asian	6
+10010-Australian	2
+10010-B & B	3
+10010-BBQ	8
+10010-Bagels	9
+10010-Bakery	17
+10010-Bar	32
+10010-Beach	3
+10010-Beer Garden	3
+10010-Beer Store	1
+10010-Belgian	1
+10010-Boat / Ferry	1
+10010-Bookstore	1
+10010-Brazilian	1
+10010-Breakfast	7
+10010-Brewery	5
+10010-Bubble Tea	1
+10010-Buffet	1
+10010-Burgers	24
+10010-Burritos	2
+10010-Bus Station	1
+10010-Caf??	37
+10010-Caribbean	3
+10010-Casino	1
+10010-Chinese	8
+10010-Chocolate Shop	1
+10010-Cocktail	21
+10010-Coffee Shop	109
+10010-Comedy Club	1
+10010-Convention	1
+10010-Cosmetics	2
+10010-Creperie	1
+10010-Cuban	1
+10010-Cultural Center	1
+10010-Cupcakes	1
+10010-Cycle Studio	4
+10010-Deli / Bodega	6
+10010-Design	2
+10010-Desserts	14
+10010-Diner	5
+10010-Dive Bar	5
+10010-Donuts	1
+10010-Dumplings	2
+10010-Eastern European	1
+10010-Electronics	3
+10010-Empanada	1
+10010-Entertainment	3
+10010-Event Space	2
+10010-Factory	1
+10010-Fair	2
+10010-Falafel	1
+10010-Farm	2
+10010-Farmer's Market	2
+10010-Fast Food	5
+10010-Filipino	4
+10010-Fish & Chips	1
+10010-Fish Market	1
+10010-Flea Market	2
+10010-Food	1
+10010-Food & Drink	1
+10010-Food Court	2
+10010-Food Truck	3
+10010-Football	1
+10010-French	8
+10010-Fried Chicken	4
+10010-Frozen Yogurt	2
+10010-Furniture / Home	2
+10010-Garden	1
+10010-Gastropub	3
+10010-Gay Bar	3
+10010-German	3
+10010-Gourmet	3
+10010-Greek	1
+10010-Gym	4
+10010-Gym / Fitness	9
+10010-Halal	2
+10010-Health Food Store	1
+10010-High School	1
+10010-Home	4
+10010-Hostel	1
+10010-Hot Dogs	1
+10010-Hotel	8
+10010-Hotel Bar	2
+10010-Ice Cream	18
+10010-Indian	6
+10010-Indie	1
+10010-Italian	21
+10010-Japanese	7
+10010-Juice Bar	13
+10010-Karaoke	4
+10010-Korean	4
+10010-Latin American	1
+10010-Laundry	1
+10010-Liquor Store	1
+10010-Lounge	6
+10010-Mall	2
+10010-Market	1
+10010-Mediterranean	4
+10010-Men's Store	2
+10010-Mexican	21
+10010-Middle Eastern	2
+10010-Movie Theater	2
+10010-Museum	2
+10010-Music Venue	6
+10010-Nail Salon	3
+10010-New American	14
+10010-Nightclub	13
+10010-Nightlife	4
+10010-Office	2
+10010-Organic Grocery	2
+10010-Other Event	3
+10010-Other Outdoors	1
+10010-Park	3
+10010-Performing Arts	3
+10010-Peruvian	1
+10010-Pharmacy	1
+10010-Pizza	15
+10010-Plaza	1
+10010-Professional	1
+10010-Pub	1
+10010-Public Art	2
+10010-Ramen / Noodles	9
+10010-Record Shop	3
+10010-Residential	6
+10010-Restaurant	16
+10010-River	1
+10010-Rock Club	1
+10010-Roof Deck	1
+10010-Salad	3
+10010-Salon / Barbershop	10
+10010-Sandwiches	11
+10010-Scenic Lookout	1
+10010-Seafood	8
+10010-Shoes	1
+10010-Social Club	1
+10010-Soup	1
+10010-South American	2
+10010-Southern / Soul	5
+10010-Spanish	3
+10010-Speakeasy	3
+10010-Sporting Goods	1
+10010-Sports Bar	1
+10010-Steakhouse	4
+10010-Street Food Gathering	1
+10010-Supermarket	4
+10010-Sushi	3
+10010-TV Station	1
+10010-Tacos	3
+10010-Tapas	3
+10010-Tattoo	1
+10010-Tea Room	5
+10010-Tech Startup	5
+10010-Thai	1
+10010-Theater	2
+10010-Theme Park	2
+10010-Town	1
+10010-Track	1
+10010-Trail	1
+10010-Travel	1
+10010-Turkish	2
+10010-Vegetarian / Vegan	3
+10010-Vietnamese	2
+10010-Vineyard	1
+10010-Volcano	1
+10010-Whisky Bar	2
+10010-Wine Bar	3
+10010-Wine Shop	1
+10010-Women's Store	1
+10010-Yoga Studio	2
+10012-Accessories	1
+10012-American	25
+10012-Antiques	1
+10012-Apparel	5
+10012-Arcade	1
+10012-Art Gallery	2
+10012-Arts & Crafts	3
+10012-Asian	6
+10012-Australian	3
+10012-B & B	2
+10012-BBQ	5
+10012-Bagels	3
+10012-Bakery	17
+10012-Bank	1
+10012-Bar	31
+10012-Basketball	1
+10012-Beach	2
+10012-Beer Garden	2
+10012-Boat / Ferry	1
+10012-Bookstore	1
+10012-Boutique	1
+10012-Breakfast	9
+10012-Brewery	4
+10012-Bubble Tea	4
+10012-Buffet	1
+10012-Burgers	24
+10012-Burritos	1
+10012-Bus Station	1
+10012-Bus Stop	1
+10012-Caf??	40
+10012-Cafeteria	2
+10012-Campground	1
+10012-Caribbean	3
+10012-Casino	1
+10012-Chinese	8
+10012-Chocolate Shop	1
+10012-Christmas Market	1
+10012-Cocktail	14
+10012-Coffee Shop	101
+10012-Cosmetics	1
+10012-Coworking Space	2
+10012-Cuban	2
+10012-Cultural Center	1
+10012-Cupcakes	1
+10012-Cycle Studio	3
+10012-Deli / Bodega	6
+10012-Design	1
+10012-Desserts	13
+10012-Diner	5
+10012-Dive Bar	2
+10012-Donuts	1
+10012-Dumplings	1
+10012-Electronics	1
+10012-Entertainment	5
+10012-Event Space	3
+10012-Eye Doctor	1
+10012-Factory	1
+10012-Fair	2
+10012-Falafel	2
+10012-Farm	2
+10012-Farmer's Market	1
+10012-Fast Food	8
+10012-Fish & Chips	2
+10012-Fish Market	1
+10012-Flea Market	2
+10012-Food	1
+10012-Food Court	2
+10012-Food Truck	6
+10012-Football	2
+10012-French	7
+10012-Fried Chicken	1
+10012-Frozen Yogurt	3
+10012-Furniture / Home	2
+10012-Gaming Cafe	1
+10012-Garden	1
+10012-Gastropub	5
+10012-Gay Bar	1
+10012-German	3
+10012-Gourmet	2
+10012-Greek	1
+10012-Gym	2
+10012-Gym / Fitness	5
+10012-Halal	2
+10012-Health Food Store	1
+10012-High School	1
+10012-Historic Site	2
+10012-Home	4
+10012-Hookah Bar	1
+10012-Hostel	2
+10012-Hot Dogs	1
+10012-Hotel	5
+10012-Hotel Bar	1
+10012-Hotpot	1
+10012-Ice Cream	17
+10012-Indian	7
+10012-Indie	1
+10012-Island	1
+10012-Italian	19
+10012-Japanese	9
+10012-Juice Bar	5
+10012-Karaoke	4
+10012-Korean	3
+10012-Latin American	1
+10012-Laundry	1
+10012-Liquor Store	1
+10012-Lounge	7
+10012-Mall	2
+10012-Market	1
+10012-Mediterranean	3
+10012-Men's Store	2
+10012-Mexican	17
+10012-Middle Eastern	1
+10012-Movie Theater	1
+10012-Museum	2
+10012-Music Venue	5
+10012-Nail Salon	2
+10012-New American	6
+10012-Nightclub	13
+10012-Nightlife	3
+10012-Office	5
+10012-Office Supplies	1
+10012-Other Event	2
+10012-Pakistani	2
+10012-Park	3
+10012-Performing Arts	2
+10012-Peruvian	1
+10012-Pizza	14
+10012-Plaza	1
+10012-Professional	1
+10012-Pub	1
+10012-Public Art	2
+10012-Ramen / Noodles	11
+10012-Record Shop	4
+10012-Residential	3
+10012-Restaurant	13
+10012-River	1
+10012-Rock Club	1
+10012-Roof Deck	1
+10012-Salad	1
+10012-Salon / Barbershop	7
+10012-Sandwiches	5
+10012-Seafood	7
+10012-Shoes	2
+10012-Social Club	2
+10012-Soup	1
+10012-South American	2
+10012-Southern / Soul	4
+10012-Spa	1
+10012-Spanish	3
+10012-Speakeasy	2
+10012-Sporting Goods	1
+10012-Sports Bar	1
+10012-Steakhouse	1
+10012-Street Food Gathering	1
+10012-Supermarket	1
+10012-Sushi	3
+10012-TV Station	1
+10012-Tacos	4
+10012-Tailor	1
+10012-Tapas	2
+10012-Tattoo	2
+10012-Tea Room	7
+10012-Tech Startup	9
+10012-Thai	1
+10012-Theater	2
+10012-Theme Park	2
+10012-Town	2
+10012-Travel	1
+10012-Turkish	2
+10012-Vegetarian / Vegan	1
+10012-Vietnamese	5
+10012-Village	2
+10012-Vineyard	1
+10012-Volcano	1
+10012-Whisky Bar	1
+10012-Wine Bar	2
+10012-Yoga Studio	1
+10013-Accessories	2
+10013-American	30
+10013-Antiques	1
+10013-Apparel	5
+10013-Arcade	4
+10013-Art Gallery	4
+10013-Arts & Crafts	2
+10013-Asian	3
+10013-Australian	2
+10013-B & B	4
+10013-BBQ	9
+10013-Bagels	3
+10013-Bakery	17
+10013-Bar	21
+10013-Beach	2
+10013-Boat / Ferry	1
+10013-Bookstore	3
+10013-Brazilian	2
+10013-Breakfast	8
+10013-Brewery	5
+10013-Bubble Tea	1
+10013-Buffet	1
+10013-Burgers	19
+10013-Burritos	2
+10013-Bus Station	1
+10013-Caf??	39
+10013-Cafeteria	1
+10013-Caribbean	3
+10013-Casino	1
+10013-Chinese	5
+10013-Chocolate Shop	1
+10013-City	1
+10013-Cocktail	13
+10013-Coffee Shop	98
+10013-Cuban	1
+10013-Cultural Center	1
+10013-Cupcakes	1
+10013-Cycle Studio	1
+10013-Deli / Bodega	5
+10013-Dentist's Office	1
+10013-Department Store	1
+10013-Desserts	11
+10013-Diner	3
+10013-Dive Bar	1
+10013-Dive Spot	1
+10013-Dumplings	1
+10013-Eastern European	1
+10013-Electronics	1
+10013-Entertainment	1
+10013-Factory	1
+10013-Fair	2
+10013-Falafel	1
+10013-Farm	1
+10013-Farmer's Market	1
+10013-Fast Food	4
+10013-Filipino	1
+10013-Fish & Chips	1
+10013-Fish Market	1
+10013-Flea Market	3
+10013-Food	1
+10013-Food Court	2
+10013-Food Truck	4
+10013-Football	1
+10013-French	11
+10013-Frozen Yogurt	2
+10013-Furniture / Home	2
+10013-Garden	1
+10013-Gastropub	4
+10013-Gay Bar	1
+10013-German	4
+10013-Gift Shop	1
+10013-Greek	2
+10013-Grocery Store	1
+10013-Gym	2
+10013-Gym / Fitness	4
+10013-Halal	2
+10013-Hawaiian	1
+10013-Health Food Store	1
+10013-High School	1
+10013-Home	4
+10013-Home Cooking	1
+10013-Hostel	1
+10013-Hot Dogs	1
+10013-Hotel	4
+10013-Hotel Bar	1
+10013-Ice Cream	13
+10013-Indian	5
+10013-Indie	1
+10013-Italian	17
+10013-Japanese	14
+10013-Juice Bar	11
+10013-Karaoke	2
+10013-Korean	7
+10013-Latin American	1
+10013-Laundry	1
+10013-Lounge	6
+10013-Mall	4
+10013-Mediterranean	2
+10013-Men's Store	1
+10013-Mexican	12
+10013-Middle Eastern	1
+10013-Movie Theater	1
+10013-Museum	5
+10013-Nail Salon	1
+10013-Neighborhood	1
+10013-New American	9
+10013-Nightclub	8
+10013-Nightlife	2
+10013-Office	1
+10013-Organic Grocery	1
+10013-Other Event	3
+10013-Outdoor Sculpture	1
+10013-Park	5
+10013-Performing Arts	3
+10013-Peruvian	1
+10013-Pet Service	1
+10013-Photography Lab	1
+10013-Pizza	15
+10013-Professional	1
+10013-Pub	2
+10013-Public Art	1
+10013-Ramen / Noodles	8
+10013-Record Shop	2
+10013-Residential	3
+10013-Restaurant	14
+10013-River	2
+10013-Rock Club	1
+10013-Roof Deck	1
+10013-Salad	1
+10013-Salon / Barbershop	6
+10013-Sandwiches	11
+10013-Seafood	4
+10013-Shoes	1
+10013-Social Club	1
+10013-Soup	1
+10013-South American	1
+10013-Southern / Soul	4
+10013-Spanish	2
+10013-Speakeasy	3
+10013-Sporting Goods	1
+10013-Sports Bar	2
+10013-Steakhouse	2
+10013-Street Food Gathering	1
+10013-Supermarket	1
+10013-Sushi	3
+10013-TV Station	1
+10013-Tacos	3
+10013-Tapas	2
+10013-Tea Room	4
+10013-Tech Startup	3
+10013-Thai	2
+10013-Theater	1
+10013-Theme Park	4
+10013-Thrift / Vintage	1
+10013-Track	1
+10013-Travel	1
+10013-Turkish	1
+10013-Vegetarian / Vegan	4
+10013-Vietnamese	5
+10013-Village	1
+10013-Vineyard	1
+10013-Wine Bar	1
+10013-Yoga Studio	1
+10013-Zoo	1
+10014-Accessories	1
+10014-American	30
+10014-Antiques	1
+10014-Apparel	6
+10014-Arcade	1
+10014-Art Gallery	2
+10014-Arts & Crafts	4
+10014-Asian	6
+10014-Australian	2
+10014-B & B	2
+10014-BBQ	6
+10014-Bagels	6
+10014-Bakery	19
+10014-Bar	28
+10014-Beach	2
+10014-Beer Garden	1
+10014-Beer Store	1
+10014-Boat / Ferry	1
+10014-Bookstore	1
+10014-Boutique	2
+10014-Breakfast	8
+10014-Brewery	4
+10014-Bubble Tea	1
+10014-Buffet	1
+10014-Burgers	24
+10014-Burritos	1
+10014-Bus Station	1
+10014-Butcher	1
+10014-Caf??	41
+10014-Caribbean	3
+10014-Casino	1
+10014-Cheese Shop	1
+10014-Chinese	7
+10014-Chocolate Shop	1
+10014-Cocktail	13
+10014-Coffee Shop	118
+10014-Cosmetics	2
+10014-Cuban	1
+10014-Cultural Center	1
+10014-Cupcakes	1
+10014-Cycle Studio	5
+10014-Deli / Bodega	7
+10014-Design	1
+10014-Desserts	12
+10014-Diner	5
+10014-Dive Bar	2
+10014-Donuts	2
+10014-Dumplings	1
+10014-Electronics	1
+10014-English	1
+10014-Entertainment	3
+10014-Event Space	2
+10014-Eye Doctor	1
+10014-Factory	1
+10014-Fair	2
+10014-Falafel	2
+10014-Farm	1
+10014-Farmer's Market	1
+10014-Fast Food	8
+10014-Festival	1
+10014-Filipino	3
+10014-Fish & Chips	1
+10014-Fish Market	1
+10014-Flea Market	2
+10014-Food	1
+10014-Food & Drink	1
+10014-Food Court	2
+10014-Food Truck	4
+10014-Football	2
+10014-French	8
+10014-Fried Chicken	2
+10014-Frozen Yogurt	5
+10014-Furniture / Home	2
+10014-Garden	1
+10014-Gastropub	7
+10014-Gay Bar	1
+10014-German	3
+10014-Gourmet	2
+10014-Greek	1
+10014-Gym	3
+10014-Gym / Fitness	4
+10014-Halal	2
+10014-Health Food Store	1
+10014-High School	1
+10014-Home	7
+10014-Hostel	2
+10014-Hot Dogs	2
+10014-Hotel	7
+10014-Hotel Bar	1
+10014-Ice Cream	21
+10014-Indian	9
+10014-Indie	1
+10014-Italian	22
+10014-Japanese	8
+10014-Juice Bar	6
+10014-Karaoke	4
+10014-Korean	3
+10014-Latin American	1
+10014-Laundry	1
+10014-Library	1
+10014-Liquor Store	1
+10014-Lounge	6
+10014-Mall	2
+10014-Market	1
+10014-Mediterranean	5
+10014-Men's Store	2
+10014-Mexican	18
+10014-Middle Eastern	2
+10014-Movie Theater	1
+10014-Museum	2
+10014-Music Venue	3
+10014-Nail Salon	2
+10014-New American	11
+10014-Nightclub	10
+10014-Nightlife	2
+10014-Office	1
+10014-Office Supplies	1
+10014-Other Event	2
+10014-Pakistani	1
+10014-Park	3
+10014-Performing Arts	2
+10014-Peruvian	1
+10014-Pizza	15
+10014-Plaza	1
+10014-Professional	1
+10014-Pub	1
+10014-Public Art	2
+10014-Ramen / Noodles	8
+10014-Record Shop	3
+10014-Residential	3
+10014-Restaurant	10
+10014-River	1
+10014-Rock Club	1
+10014-Roof Deck	1
+10014-Salad	3
+10014-Salon / Barbershop	6
+10014-Sandwiches	7
+10014-Seafood	6
+10014-Shoes	2
+10014-Social Club	2
+10014-Soup	1
+10014-South American	2
+10014-Southern / Soul	4
+10014-Spa	1
+10014-Spanish	4
+10014-Speakeasy	4
+10014-Sporting Goods	1
+10014-Sports Bar	2
+10014-Steakhouse	3
+10014-Street Food Gathering	3
+10014-Supermarket	2
+10014-Sushi	4
+10014-TV Station	1
+10014-Tacos	4
+10014-Tapas	1
+10014-Tattoo	1
+10014-Tea Room	4
+10014-Tech Startup	6
+10014-Thai	1
+10014-Theater	2
+10014-Theme Park	2
+10014-Town	1
+10014-Travel	1
+10014-Turkish	2
+10014-Vegetarian / Vegan	5
+10014-Vietnamese	5
+10014-Vineyard	1
+10014-Volcano	1
+10014-Whisky Bar	1
+10014-Wine Bar	3
+10014-Yoga Studio	1
+10016-Accessories	1
+10016-Administrative Building	1
+10016-American	34
+10016-Antiques	1
+10016-Apparel	4
+10016-Arcade	1
+10016-Arepas	1
+10016-Art Gallery	2
+10016-Art Museum	1
+10016-Arts & Crafts	4
+10016-Asian	4
+10016-Australian	2
+10016-B & B	3
+10016-BBQ	9
+10016-Bagels	8
+10016-Bakery	20
+10016-Bar	37
+10016-Baseball Field	1
+10016-Beach	2
+10016-Beer Garden	2
+10016-Boat / Ferry	1
+10016-Bookstore	1
+10016-Boutique	1
+10016-Brazilian	1
+10016-Breakfast	6
+10016-Brewery	5
+10016-Bridge	1
+10016-Bubble Tea	1
+10016-Buffet	1
+10016-Burgers	24
+10016-Burritos	1
+10016-Bus Station	1
+10016-Caf??	40
+10016-Cafeteria	2
+10016-Caribbean	3
+10016-Casino	1
+10016-Castle	1
+10016-Chinese	7
+10016-Chocolate Shop	1
+10016-Cineplex	1
+10016-Cocktail	21
+10016-Coffee Shop	121
+10016-Comedy Club	1
+10016-Convention	1
+10016-Cosmetics	2
+10016-Creperie	1
+10016-Cuban	1
+10016-Cultural Center	1
+10016-Cupcakes	1
+10016-Cycle Studio	3
+10016-Deli / Bodega	6
+10016-Design	2
+10016-Desserts	15
+10016-Diner	5
+10016-Dive Bar	4
+10016-Donuts	1
+10016-Dumplings	2
+10016-Eastern European	1
+10016-Electronics	2
+10016-Empanada	1
+10016-Entertainment	3
+10016-Event Space	2
+10016-Factory	1
+10016-Fair	2
+10016-Falafel	2
+10016-Farm	2
+10016-Farmer's Market	1
+10016-Fast Food	4
+10016-Filipino	1
+10016-Fish & Chips	1
+10016-Fish Market	1
+10016-Flea Market	2
+10016-Food	1
+10016-Food Court	3
+10016-Food Truck	3
+10016-Football	1
+10016-French	7
+10016-Fried Chicken	4
+10016-Frozen Yogurt	2
+10016-Furniture / Home	2
+10016-Garden	1
+10016-Gastropub	3
+10016-Gay Bar	3
+10016-German	3
+10016-Gourmet	2
+10016-Greek	1
+10016-Gym	4
+10016-Gym / Fitness	9
+10016-Halal	3
+10016-Health Food Store	1
+10016-High School	1
+10016-Home	6
+10016-Hostel	1
+10016-Hot Dogs	1
+10016-Hotel	7
+10016-Hotel Bar	2
+10016-Ice Cream	16
+10016-Indian	10
+10016-Indie	1
+10016-Italian	23
+10016-Japanese	7
+10016-Juice Bar	13
+10016-Karaoke	3
+10016-Korean	4
+10016-Lab	1
+10016-Latin American	1
+10016-Laundry	1
+10016-Library	1
+10016-Liquor Store	1
+10016-Lounge	7
+10016-Mall	2
+10016-Market	1
+10016-Mediterranean	3
+10016-Men's Store	2
+10016-Mexican	21
+10016-Middle Eastern	3
+10016-Movie Theater	2
+10016-Museum	2
+10016-Music Venue	5
+10016-Nail Salon	2
+10016-New American	11
+10016-Nightclub	9
+10016-Nightlife	3
+10016-Office	3
+10016-Other Event	3
+10016-Other Outdoors	1
+10016-Park	4
+10016-Performing Arts	3
+10016-Peruvian	1
+10016-Pizza	17
+10016-Playground	1
+10016-Plaza	1
+10016-Professional	1
+10016-Pub	1
+10016-Public Art	2
+10016-Ramen / Noodles	9
+10016-Record Shop	3
+10016-Residential	7
+10016-Restaurant	14
+10016-River	1
+10016-Rock Club	1
+10016-Roof Deck	1
+10016-Salad	2
+10016-Salon / Barbershop	11
+10016-Sandwiches	11
+10016-Scenic Lookout	1
+10016-Science	1
+10016-Seafood	5
+10016-Shoes	1
+10016-Social Club	1
+10016-Soup	1
+10016-South American	2
+10016-Southern / Soul	3
+10016-Spanish	3
+10016-Speakeasy	2
+10016-Sporting Goods	1
+10016-Sports Bar	1
+10016-Steakhouse	2
+10016-Street Food Gathering	1
+10016-Student Center	1
+10016-Supermarket	2
+10016-Sushi	1
+10016-TV Station	1
+10016-Tacos	4
+10016-Tapas	2
+10016-Tattoo	2
+10016-Tea Room	4
+10016-Tech Startup	6
+10016-Thai	2
+10016-Theater	2
+10016-Theme Park	2
+10016-Town	1
+10016-Trail	1
+10016-Train Station	1
+10016-Travel	1
+10016-Turkish	2
+10016-Vegetarian / Vegan	3
+10016-Vietnamese	3
+10016-Vineyard	1
+10016-Volcano	1
+10016-Whisky Bar	2
+10016-Wine Bar	4
+10016-Wine Shop	1
+10016-Wings	1
+10016-Yoga Studio	2
+10017-Accessories	1
+10017-Administrative Building	1
+10017-American	33
+10017-Antiques	1
+10017-Apparel	6
+10017-Aquarium	1
+10017-Arcade	1
+10017-Art Gallery	1
+10017-Arts & Crafts	3
+10017-Asian	5
+10017-Australian	2
+10017-B & B	2
+10017-BBQ	9
+10017-Bagels	8
+10017-Bakery	21
+10017-Bar	29
+10017-Baseball Field	1
+10017-Beach	2
+10017-Beer Garden	2
+10017-Boat / Ferry	1
+10017-Bookstore	1
+10017-Boutique	2
+10017-Brazilian	4
+10017-Breakfast	7
+10017-Brewery	5
+10017-Bridge	1
+10017-Buffet	1
+10017-Burgers	23
+10017-Burritos	1
+10017-Caf??	35
+10017-Caribbean	3
+10017-Casino	1
+10017-Chinese	7
+10017-Chocolate Shop	1
+10017-Cocktail	18
+10017-Coffee Shop	126
+10017-Comedy Club	1
+10017-Cosmetics	1
+10017-Creperie	1
+10017-Cuban	2
+10017-Cultural Center	1
+10017-Cupcakes	2
+10017-Cycle Studio	1
+10017-Deli / Bodega	6
+10017-Design	1
+10017-Desserts	11
+10017-Diner	5
+10017-Dive Bar	4
+10017-Donuts	4
+10017-Dumplings	3
+10017-Eastern European	1
+10017-Electronics	2
+10017-Entertainment	1
+10017-Event Space	1
+10017-Factory	1
+10017-Fair	2
+10017-Falafel	1
+10017-Farm	1
+10017-Fast Food	1
+10017-Filipino	1
+10017-Fish & Chips	1
+10017-Fish Market	1
+10017-Flea Market	2
+10017-Food	1
+10017-Food Court	2
+10017-Food Truck	3
+10017-French	8
+10017-Fried Chicken	4
+10017-Frozen Yogurt	2
+10017-Furniture / Home	2
+10017-Garden	1
+10017-Gastropub	2
+10017-German	3
+10017-Gourmet	3
+10017-Greek	2
+10017-Grocery Store	1
+10017-Gym	4
+10017-Gym / Fitness	9
+10017-Halal	1
+10017-High School	1
+10017-Home	4
+10017-Hot Dogs	1
+10017-Hotel	6
+10017-Ice Cream	12
+10017-Indian	5
+10017-Indie	1
+10017-Italian	19
+10017-Japanese	6
+10017-Juice Bar	12
+10017-Karaoke	2
+10017-Korean	3
+10017-Latin American	1
+10017-Laundry	1
+10017-Liquor Store	1
+10017-Lounge	4
+10017-Mall	2
+10017-Market	2
+10017-Massage Studio	1
+10017-Mediterranean	6
+10017-Mexican	17
+10017-Middle Eastern	3
+10017-Molecular Gastronomy	1
+10017-Museum	3
+10017-Music Venue	5
+10017-Nail Salon	1
+10017-New American	12
+10017-Nightclub	9
+10017-Nightlife	2
+10017-Office	3
+10017-Organic Grocery	2
+10017-Other Event	2
+10017-Park	3
+10017-Performing Arts	4
+10017-Persian	1
+10017-Pizza	16
+10017-Plaza	1
+10017-Professional	1
+10017-Public Art	1
+10017-Ramen / Noodles	7
+10017-Record Shop	3
+10017-Residential	2
+10017-Restaurant	12
+10017-River	1
+10017-Rock Club	2
+10017-Roof Deck	1
+10017-Salad	1
+10017-Salon / Barbershop	11
+10017-Sandwiches	7
+10017-Scenic Lookout	1
+10017-Seafood	5
+10017-Shoes	1
+10017-Shop	1
+10017-Soup	1
+10017-Southern / Soul	3
+10017-Spanish	3
+10017-Speakeasy	2
+10017-Sporting Goods	1
+10017-Steakhouse	1
+10017-Street Food Gathering	2
+10017-Supermarket	3
+10017-Sushi	2
+10017-TV Station	1
+10017-Tacos	5
+10017-Tapas	2
+10017-Tattoo	2
+10017-Tea Room	4
+10017-Tech Startup	5
+10017-Thai	1
+10017-Theater	4
+10017-Theme Park	2
+10017-Town	1
+10017-Trail	1
+10017-Train Station	1
+10017-Travel	1
+10017-Turkish	2
+10017-Vegetarian / Vegan	2
+10017-Vietnamese	2
+10017-Vineyard	1
+10017-Whisky Bar	1
+10017-Wine Bar	3
+10017-Winery	1
+10017-Wings	1
+10017-Yoga Studio	2
+10018-Accessories	1
+10018-Airport	1
+10018-American	42
+10018-Antiques	1
+10018-Apparel	7
+10018-Arcade	2
+10018-Argentinian	1
+10018-Art Gallery	5
+10018-Arts & Crafts	4
+10018-Asian	5
+10018-Australian	2
+10018-B & B	3
+10018-BBQ	9
+10018-Bagels	9
+10018-Bakery	24
+10018-Bar	31
+10018-Beach	2
+10018-Beer Garden	3
+10018-Bike shop	1
+10018-Bistro	1
+10018-Boat / Ferry	1
+10018-Bookstore	2
+10018-Brazilian	2
+10018-Breakfast	8
+10018-Brewery	5
+10018-Buffet	1
+10018-Burgers	28
+10018-Burritos	2
+10018-Bus Station	1
+10018-Caf??	42
+10018-Caribbean	3
+10018-Casino	2
+10018-Chinese	8
+10018-Chocolate Shop	1
+10018-Cineplex	1
+10018-Cocktail	24
+10018-Coffee Shop	134
+10018-Comedy Club	1
+10018-Concert Hall	1
+10018-Convenience Stores	1
+10018-Cosmetics	2
+10018-Coworking Space	3
+10018-Creperie	1
+10018-Cricket	1
+10018-Cuban	1
+10018-Cultural Center	1
+10018-Cupcakes	3
+10018-Cycle Studio	4
+10018-Deli / Bodega	8
+10018-Design	3
+10018-Desserts	14
+10018-Diner	4
+10018-Dive Bar	4
+10018-Donuts	1
+10018-Dumplings	2
+10018-Eastern European	1
+10018-Electronics	2
+10018-Entertainment	5
+10018-Event Space	2
+10018-Fair	2
+10018-Falafel	1
+10018-Farm	1
+10018-Farmer's Market	2
+10018-Fast Food	6
+10018-Filipino	4
+10018-Fish & Chips	1
+10018-Fish Market	1
+10018-Flea Market	3
+10018-Food	1
+10018-Food & Drink	1
+10018-Food Court	2
+10018-Food Truck	3
+10018-Football	1
+10018-French	8
+10018-Fried Chicken	3
+10018-Frozen Yogurt	4
+10018-Furniture / Home	2
+10018-Gaming Cafe	1
+10018-Garden	1
+10018-Gastropub	5
+10018-Gay Bar	1
+10018-German	4
+10018-Gourmet	4
+10018-Greek	2
+10018-Grocery Store	2
+10018-Gym	8
+10018-Gym / Fitness	8
+10018-Halal	1
+10018-Health Food Store	1
+10018-High School	2
+10018-Home	4
+10018-Hostel	1
+10018-Hot Dogs	1
+10018-Hotel	8
+10018-Hotel Bar	1
+10018-Hotpot	1
+10018-Ice Cream	22
+10018-Indian	6
+10018-Indie	1
+10018-Italian	29
+10018-Japanese	7
+10018-Jazz Club	1
+10018-Juice Bar	12
+10018-Karaoke	6
+10018-Korean	3
+10018-Latin American	3
+10018-Liquor Store	1
+10018-Lounge	7
+10018-Malaysian	1
+10018-Mall	3
+10018-Market	3
+10018-Mediterranean	6
+10018-Men's Store	2
+10018-Mexican	19
+10018-Middle Eastern	3
+10018-Molecular Gastronomy	1
+10018-Mongolian	1
+10018-Movie Theater	1
+10018-Museum	3
+10018-Music Venue	6
+10018-Nail Salon	1
+10018-New American	14
+10018-Nightclub	10
+10018-Nightlife	2
+10018-Office	4
+10018-Organic Grocery	1
+10018-Other Event	2
+10018-Park	3
+10018-Performing Arts	4
+10018-Peruvian	1
+10018-Pet Store	1
+10018-Pizza	16
+10018-Plaza	1
+10018-Professional	1
+10018-Pub	1
+10018-Public Art	3
+10018-Ramen / Noodles	8
+10018-Record Shop	3
+10018-Residential	4
+10018-Restaurant	19
+10018-River	1
+10018-Rock Club	1
+10018-Roof Deck	1
+10018-Salad	5
+10018-Salon / Barbershop	12
+10018-Sandwiches	12
+10018-Seafood	13
+10018-Shoes	1
+10018-Social Club	1
+10018-Soup	2
+10018-South American	2
+10018-Southern / Soul	4
+10018-Spa	1
+10018-Spanish	6
+10018-Speakeasy	3
+10018-Spiritual	1
+10018-Sporting Goods	1
+10018-Steakhouse	6
+10018-Street Food Gathering	2
+10018-Supermarket	4
+10018-Sushi	6
+10018-TV Station	1
+10018-Tacos	5
+10018-Tapas	2
+10018-Tattoo	1
+10018-Taxi	1
+10018-Tea Room	5
+10018-Tech Startup	7
+10018-Thai	1
+10018-Theater	4
+10018-Theme Park	2
+10018-Town	1
+10018-Trail	1
+10018-Travel	1
+10018-Travel Agency	1
+10018-Turkish	3
+10018-Vegetarian / Vegan	4
+10018-Vietnamese	1
+10018-Vineyard	1
+10018-Volcano	1
+10018-Whisky Bar	2
+10018-Wine Bar	4
+10018-Winery	1
+10018-Yoga Studio	3
+10018-Zoo	1
+10019-Accessories	1
+10019-Administrative Building	1
+10019-American	32
+10019-Antiques	1
+10019-Apparel	4
+10019-Arcade	1
+10019-Argentinian	1
+10019-Art Gallery	1
+10019-Arts & Crafts	3
+10019-Asian	3
+10019-Australian	2
+10019-B & B	2
+10019-BBQ	8
+10019-Bagels	7
+10019-Bakery	18
+10019-Bar	28
+10019-Baseball Field	1
+10019-Beach	2
+10019-Beer Garden	2
+10019-Boat / Ferry	1
+10019-Bookstore	2
+10019-Boutique	1
+10019-Brazilian	2
+10019-Breakfast	7
+10019-Brewery	5
+10019-Bridge	1
+10019-Buffet	1
+10019-Burgers	22
+10019-Burritos	2
+10019-Caf??	32
+10019-Caribbean	3
+10019-Casino	1
+10019-Chinese	5
+10019-Chocolate Shop	1
+10019-Cocktail	19
+10019-Coffee Shop	119
+10019-Comedy Club	1
+10019-Cosmetics	1
+10019-Coworking Space	1
+10019-Creperie	1
+10019-Cuban	1
+10019-Cultural Center	1
+10019-Cupcakes	2
+10019-Cycle Studio	1
+10019-Deli / Bodega	6
+10019-Design	1
+10019-Desserts	11
+10019-Diner	4
+10019-Dive Bar	4
+10019-Donuts	1
+10019-Dumplings	2
+10019-Eastern European	1
+10019-Electronics	2
+10019-Entertainment	1
+10019-Event Space	1
+10019-Factory	1
+10019-Fair	2
+10019-Falafel	1
+10019-Farm	1
+10019-Fast Food	1
+10019-Filipino	1
+10019-Fish & Chips	1
+10019-Fish Market	1
+10019-Flea Market	3
+10019-Food	1
+10019-Food Court	2
+10019-Food Truck	2
+10019-French	5
+10019-Fried Chicken	3
+10019-Frozen Yogurt	2
+10019-Furniture / Home	2
+10019-Garden	1
+10019-Gastropub	2
+10019-German	4
+10019-Gourmet	2
+10019-Greek	1
+10019-Grocery Store	1
+10019-Gym	5
+10019-Gym / Fitness	9
+10019-Halal	1
+10019-High School	1
+10019-Home	4
+10019-Hot Dogs	1
+10019-Hotel	6
+10019-Ice Cream	12
+10019-Indian	5
+10019-Indie	1
+10019-Italian	21
+10019-Japanese	7
+10019-Juice Bar	11
+10019-Karaoke	2
+10019-Korean	3
+10019-Latin American	1
+10019-Laundry	1
+10019-Liquor Store	1
+10019-Lounge	5
+10019-Mall	2
+10019-Market	2
+10019-Mediterranean	5
+10019-Mexican	17
+10019-Middle Eastern	3
+10019-Molecular Gastronomy	1
+10019-Museum	2
+10019-Music Venue	5
+10019-Nail Salon	1
+10019-New American	11
+10019-Nightclub	8
+10019-Nightlife	2
+10019-Office	2
+10019-Organic Grocery	1
+10019-Other Event	2
+10019-Park	3
+10019-Performing Arts	4
+10019-Pizza	14
+10019-Professional	1
+10019-Pub	1
+10019-Public Art	1
+10019-Ramen / Noodles	5
+10019-Record Shop	3
+10019-Residential	2
+10019-Restaurant	14
+10019-River	1
+10019-Rock Club	1
+10019-Roof Deck	1
+10019-Salad	2
+10019-Salon / Barbershop	12
+10019-Sandwiches	7
+10019-Seafood	7
+10019-Shoes	1
+10019-Soup	1
+10019-Southern / Soul	3
+10019-Spa	1
+10019-Spanish	3
+10019-Speakeasy	2
+10019-Sporting Goods	1
+10019-Steakhouse	2
+10019-Street Food Gathering	2
+10019-Supermarket	2
+10019-Sushi	2
+10019-TV Station	1
+10019-Tacos	6
+10019-Tapas	1
+10019-Tattoo	2
+10019-Tea Room	5
+10019-Tech Startup	5
+10019-Theater	4
+10019-Theme Park	2
+10019-Town	1
+10019-Trail	1
+10019-Train Station	1
+10019-Travel	1
+10019-Turkish	1
+10019-Vegetarian / Vegan	2
+10019-Vietnamese	2
+10019-Vineyard	1
+10019-Whisky Bar	1
+10019-Wine Bar	2
+10019-Winery	1
+10019-Wings	1
+10019-Yoga Studio	2
+10020-Accessories	1
+10020-American	33
+10020-Antiques	1
+10020-Apparel	6
+10020-Arcade	2
+10020-Art Gallery	2
+10020-Art Museum	1
+10020-Arts & Crafts	3
+10020-Asian	8
+10020-Australian	2
+10020-Automotive	1
+10020-B & B	2
+10020-BBQ	11
+10020-Bagels	10
+10020-Bakery	18
+10020-Bar	35
+10020-Beach	2
+10020-Beer Garden	3
+10020-Beer Store	1
+10020-Boat / Ferry	1
+10020-Bookstore	2
+10020-Boutique	2
+10020-Breakfast	8
+10020-Brewery	4
+10020-Bubble Tea	3
+10020-Buffet	1
+10020-Burgers	25
+10020-Burritos	1
+10020-Bus Station	1
+10020-Caf??	47
+10020-Candy Store	1
+10020-Caribbean	3
+10020-Casino	1
+10020-Cheese Shop	1
+10020-Chinese	8
+10020-Chocolate Shop	1
+10020-City	2
+10020-Cocktail	21
+10020-Coffee Shop	136
+10020-Comedy Club	1
+10020-Comfort Food	1
+10020-Comic Shop	1
+10020-Cosmetics	2
+10020-Cuban	2
+10020-Cultural Center	1
+10020-Cupcakes	1
+10020-Cycle Studio	5
+10020-Daycare	1
+10020-Deli / Bodega	7
+10020-Design	1
+10020-Desserts	15
+10020-Diner	5
+10020-Dive Bar	3
+10020-Donuts	4
+10020-Dumplings	1
+10020-Eastern European	2
+10020-Electronics	1
+10020-Entertainment	5
+10020-Event Space	2
+10020-Fair	2
+10020-Falafel	2
+10020-Farm	2
+10020-Farmer's Market	1
+10020-Fast Food	8
+10020-Festival	1
+10020-Filipino	4
+10020-Fish & Chips	1
+10020-Fish Market	1
+10020-Flea Market	2
+10020-Food	1
+10020-Food & Drink	1
+10020-Food Court	2
+10020-Food Truck	4
+10020-Football	2
+10020-French	8
+10020-Fried Chicken	3
+10020-Frozen Yogurt	5
+10020-Furniture / Home	2
+10020-Garden	2
+10020-Gastropub	5
+10020-Gay Bar	1
+10020-German	3
+10020-Gluten-free	1
+10020-Gourmet	3
+10020-Greek	1
+10020-Grocery Store	1
+10020-Gym	5
+10020-Gym / Fitness	4
+10020-Halal	2
+10020-Health Food Store	1
+10020-High School	2
+10020-Home	7
+10020-Hostel	2
+10020-Hot Dogs	2
+10020-Hotel	10
+10020-Hotel Bar	2
+10020-Ice Cream	25
+10020-Indian	9
+10020-Indie	1
+10020-Italian	26
+10020-Japanese	10
+10020-Juice Bar	6
+10020-Karaoke	4
+10020-Korean	3
+10020-Latin American	1
+10020-Library	1
+10020-Lingerie	1
+10020-Liquor Store	2
+10020-Lounge	6
+10020-Mall	2
+10020-Market	1
+10020-Mediterranean	5
+10020-Men's Store	2
+10020-Mexican	19
+10020-Middle Eastern	2
+10020-Movie Theater	1
+10020-Museum	2
+10020-Music Venue	3
+10020-Nail Salon	1
+10020-New American	13
+10020-Nightclub	11
+10020-Nightlife	3
+10020-Office	2
+10020-Office Supplies	1
+10020-Optical	1
+10020-Other Event	2
+10020-Pakistani	1
+10020-Park	3
+10020-Performing Arts	3
+10020-Peruvian	1
+10020-Pie Shop	1
+10020-Pizza	17
+10020-Plaza	1
+10020-Professional	1
+10020-Pub	2
+10020-Public Art	2
+10020-Ramen / Noodles	11
+10020-Record Shop	3
+10020-Residential	2
+10020-Restaurant	11
+10020-River	1
+10020-Road	1
+10020-Rock Club	1
+10020-Roof Deck	1
+10020-Salad	2
+10020-Salon / Barbershop	10
+10020-Sandwiches	8
+10020-School	1
+10020-Seafood	7
+10020-Shoes	2
+10020-Snacks	1
+10020-Social Club	2
+10020-Soup	1
+10020-South American	2
+10020-Southern / Soul	6
+10020-Spa	2
+10020-Spanish	4
+10020-Speakeasy	3
+10020-Sporting Goods	2
+10020-Sports Bar	2
+10020-Steakhouse	3
+10020-Street Food Gathering	3
+10020-Supermarket	3
+10020-Sushi	6
+10020-TV Station	1
+10020-Tacos	4
+10020-Tapas	1
+10020-Tattoo	1
+10020-Tea Room	4
+10020-Tech Startup	5
+10020-Thai	2
+10020-Theater	2
+10020-Theme Park	2
+10020-Town	1
+10020-Tram	1
+10020-Travel	2
+10020-Turkish	2
+10020-Ukrainian	1
+10020-Vegetarian / Vegan	5
+10020-Vietnamese	5
+10020-Vineyard	1
+10020-Volcano	1
+10020-Whisky Bar	1
+10020-Wine Bar	5
+10020-Yoga Studio	1
+10021-Accessories	1
+10021-Administrative Building	1
+10021-American	35
+10021-Antiques	1
+10021-Apparel	6
+10021-Aquarium	1
+10021-Arcade	1
+10021-Art Gallery	2
+10021-Arts & Crafts	3
+10021-Asian	5
+10021-Australian	3
+10021-B & B	2
+10021-BBQ	6
+10021-Bagels	4
+10021-Bakery	17
+10021-Bar	35
+10021-Baseball Field	1
+10021-Beach	2
+10021-Beer Garden	3
+10021-Boat / Ferry	1
+10021-Bookstore	1
+10021-Boutique	2
+10021-Brazilian	3
+10021-Breakfast	6
+10021-Brewery	6
+10021-Bridge	1
+10021-Burgers	24
+10021-Burritos	1
+10021-Caf??	30
+10021-Caribbean	3
+10021-Chinese	6
+10021-Chocolate Shop	1
+10021-Church	1
+10021-Cocktail	11
+10021-Coffee Shop	108
+10021-Cosmetics	1
+10021-Creperie	1
+10021-Cuban	2
+10021-Cultural Center	1
+10021-Cupcakes	1
+10021-Cycle Studio	1
+10021-Deli / Bodega	10
+10021-Design	2
+10021-Desserts	8
+10021-Diner	8
+10021-Dive Bar	3
+10021-Donuts	4
+10021-Dumplings	5
+10021-Electronics	2
+10021-Entertainment	2
+10021-Event Space	1
+10021-Factory	1
+10021-Fair	2
+10021-Falafel	1
+10021-Fast Food	1
+10021-Fish & Chips	1
+10021-Fish Market	1
+10021-Flea Market	2
+10021-Food	1
+10021-Food Court	3
+10021-Food Truck	4
+10021-French	7
+10021-Fried Chicken	5
+10021-Frozen Yogurt	1
+10021-Furniture / Home	1
+10021-Gastropub	4
+10021-German	3
+10021-Gift Shop	1
+10021-Gourmet	2
+10021-Greek	2
+10021-Grocery Store	1
+10021-Gym	3
+10021-Gym / Fitness	8
+10021-Halal	1
+10021-High School	1
+10021-Home	4
+10021-Hot Dogs	1
+10021-Hotel	5
+10021-Housing Development	1
+10021-Ice Cream	8
+10021-Indian	6
+10021-Indie	1
+10021-Italian	19
+10021-Japanese	6
+10021-Juice Bar	10
+10021-Karaoke	2
+10021-Korean	4
+10021-Latin American	1
+10021-Laundry	1
+10021-Library	1
+10021-Lounge	3
+10021-Market	1
+10021-Massage Studio	1
+10021-Mediterranean	6
+10021-Mexican	12
+10021-Middle Eastern	3
+10021-Museum	3
+10021-Music Venue	4
+10021-Nail Salon	1
+10021-New American	12
+10021-Nightclub	9
+10021-Nightlife	3
+10021-Office	2
+10021-Organic Grocery	1
+10021-Other Event	1
+10021-Park	2
+10021-Performing Arts	2
+10021-Persian	1
+10021-Pet Service	1
+10021-Pizza	19
+10021-Plaza	1
+10021-Professional	1
+10021-Public Art	1
+10021-Ramen / Noodles	7
+10021-Record Shop	3
+10021-Residential	2
+10021-Restaurant	13
+10021-River	1
+10021-Road	1
+10021-Rock Club	2
+10021-Roof Deck	1
+10021-Salad	2
+10021-Salon / Barbershop	9
+10021-Sandwiches	9
+10021-Scenic Lookout	1
+10021-Seafood	4
+10021-Shoes	1
+10021-Shop	1
+10021-Snacks	1
+10021-Soup	1
+10021-Southern / Soul	3
+10021-Spanish	2
+10021-Speakeasy	3
+10021-Sports Bar	2
+10021-Steakhouse	2
+10021-Street Food Gathering	1
+10021-Supermarket	1
+10021-Sushi	3
+10021-TV Station	1
+10021-Tacos	5
+10021-Tapas	1
+10021-Tattoo	2
+10021-Taxi	1
+10021-Tea Room	4
+10021-Tech Startup	7
+10021-Thai	3
+10021-Theater	3
+10021-Theme Park	2
+10021-Town	1
+10021-Trail	1
+10021-Train Station	1
+10021-Travel	1
+10021-Turkish	2
+10021-Vegetarian / Vegan	3
+10021-Video Games	1
+10021-Vietnamese	2
+10021-Vineyard	1
+10021-Whisky Bar	2
+10021-Wine Bar	6
+10021-Wings	1
+10021-Yoga Studio	2
+10022-Accessories	1
+10022-Administrative Building	1
+10022-American	32
+10022-Antiques	1
+10022-Apparel	5
+10022-Aquarium	1
+10022-Arcade	1
+10022-Art Gallery	1
+10022-Arts & Crafts	3
+10022-Asian	5
+10022-Athletics & Sports	1
+10022-Australian	2
+10022-B & B	2
+10022-BBQ	8
+10022-Bagels	8
+10022-Bakery	22
+10022-Bar	30
+10022-Baseball Field	1
+10022-Beach	2
+10022-Beer Garden	2
+10022-Boat / Ferry	1
+10022-Bookstore	1
+10022-Boutique	2
+10022-Brazilian	3
+10022-Breakfast	7
+10022-Brewery	5
+10022-Bridge	1
+10022-Buffet	1
+10022-Burgers	21
+10022-Burritos	1
+10022-Caf??	30
+10022-Caribbean	3
+10022-Casino	1
+10022-Castle	1
+10022-Chinese	8
+10022-Chocolate Shop	1
+10022-Cineplex	1
+10022-Cocktail	16
+10022-Coffee Shop	127
+10022-Comedy Club	1
+10022-Cosmetics	1
+10022-Creperie	1
+10022-Cuban	2
+10022-Cultural Center	1
+10022-Cupcakes	1
+10022-Cycle Studio	1
+10022-Deli / Bodega	6
+10022-Design	1
+10022-Desserts	11
+10022-Diner	5
+10022-Dive Bar	4
+10022-Donuts	4
+10022-Dumplings	3
+10022-Eastern European	1
+10022-Electronics	2
+10022-Entertainment	1
+10022-Event Space	1
+10022-Factory	1
+10022-Fair	2
+10022-Falafel	1
+10022-Farm	1
+10022-Fast Food	1
+10022-Festival	1
+10022-Filipino	1
+10022-Fish & Chips	1
+10022-Fish Market	1
+10022-Flea Market	2
+10022-Food	1
+10022-Food Court	2
+10022-Food Truck	3
+10022-French	8
+10022-Fried Chicken	4
+10022-Frozen Yogurt	2
+10022-Furniture / Home	2
+10022-Garden	1
+10022-Gastropub	3
+10022-German	4
+10022-Gourmet	3
+10022-Greek	2
+10022-Gym	4
+10022-Gym / Fitness	8
+10022-Halal	1
+10022-High School	1
+10022-Historic Site	2
+10022-Home	5
+10022-Hot Dogs	1
+10022-Hotel	6
+10022-Ice Cream	11
+10022-Indian	5
+10022-Indie	1
+10022-Italian	20
+10022-Japanese	6
+10022-Juice Bar	10
+10022-Karaoke	2
+10022-Korean	3
+10022-Latin American	1
+10022-Laundry	1
+10022-Liquor Store	1
+10022-Lounge	4
+10022-Mall	2
+10022-Market	1
+10022-Massage Studio	1
+10022-Mediterranean	5
+10022-Mexican	18
+10022-Middle Eastern	2
+10022-Museum	3
+10022-Music Venue	5
+10022-Nail Salon	1
+10022-New American	10
+10022-Nightclub	9
+10022-Nightlife	2
+10022-Office	2
+10022-Organic Grocery	1
+10022-Other Event	2
+10022-Other Outdoors	2
+10022-Park	3
+10022-Performing Arts	3
+10022-Persian	1
+10022-Pizza	17
+10022-Plaza	1
+10022-Professional	1
+10022-Public Art	1
+10022-Ramen / Noodles	7
+10022-Record Shop	3
+10022-Residential	3
+10022-Restaurant	12
+10022-River	1
+10022-Rock Club	2
+10022-Roof Deck	1
+10022-Salad	1
+10022-Salon / Barbershop	11
+10022-Sandwiches	7
+10022-Scenic Lookout	1
+10022-Seafood	5
+10022-Shoes	1
+10022-Shop	1
+10022-Soup	1
+10022-Southern / Soul	2
+10022-Spanish	2
+10022-Speakeasy	3
+10022-Sporting Goods	1
+10022-Steakhouse	1
+10022-Street Food Gathering	1
+10022-Supermarket	3
+10022-TV Station	1
+10022-Tacos	4
+10022-Tapas	1
+10022-Tattoo	2
+10022-Tea Room	4
+10022-Tech Startup	5
+10022-Thai	2
+10022-Theater	2
+10022-Theme Park	2
+10022-Town	1
+10022-Trail	1
+10022-Train Station	1
+10022-Travel	1
+10022-Turkish	2
+10022-Vegetarian / Vegan	2
+10022-Vietnamese	2
+10022-Vineyard	1
+10022-Whisky Bar	1
+10022-Wine Bar	3
+10022-Wings	1
+10022-Yoga Studio	2
+10023-Accessories	1
+10023-Administrative Building	1
+10023-American	36
+10023-Antiques	1
+10023-Apparel	3
+10023-Aquarium	1
+10023-Arcade	1
+10023-Argentinian	1
+10023-Art Gallery	2
+10023-Arts & Crafts	3
+10023-Asian	5
+10023-Australian	2
+10023-B & B	2
+10023-BBQ	8
+10023-Bagels	7
+10023-Bakery	19
+10023-Bar	32
+10023-Baseball Field	1
+10023-Beach	2
+10023-Beer Garden	2
+10023-Boat / Ferry	1
+10023-Bookstore	2
+10023-Boutique	2
+10023-Brazilian	1
+10023-Breakfast	7
+10023-Brewery	6
+10023-Bridge	1
+10023-Buffet	1
+10023-Burgers	26
+10023-Burritos	2
+10023-Caf??	31
+10023-Caribbean	3
+10023-Casino	1
+10023-Chinese	7
+10023-Chocolate Shop	1
+10023-Cocktail	17
+10023-Coffee Shop	125
+10023-Comedy Club	1
+10023-Cosmetics	1
+10023-Creperie	1
+10023-Cuban	1
+10023-Cultural Center	1
+10023-Cupcakes	1
+10023-Cycle Studio	1
+10023-Deli / Bodega	7
+10023-Design	1
+10023-Desserts	12
+10023-Diner	5
+10023-Dive Bar	4
+10023-Donuts	2
+10023-Dumplings	4
+10023-Eastern European	1
+10023-Electronics	2
+10023-Entertainment	1
+10023-Event Space	1
+10023-Factory	1
+10023-Fair	2
+10023-Falafel	1
+10023-Farm	1
+10023-Fast Food	1
+10023-Filipino	1
+10023-Fish & Chips	1
+10023-Fish Market	1
+10023-Flea Market	2
+10023-Food	1
+10023-Food Court	3
+10023-Food Truck	3
+10023-French	6
+10023-Fried Chicken	4
+10023-Frozen Yogurt	3
+10023-Furniture / Home	2
+10023-Garden	1
+10023-Gastropub	3
+10023-German	3
+10023-Gourmet	3
+10023-Greek	2
+10023-Grocery Store	1
+10023-Gym	4
+10023-Gym / Fitness	8
+10023-Halal	1
+10023-High School	1
+10023-Home	4
+10023-Hot Dogs	1
+10023-Hotel	6
+10023-Housing Development	1
+10023-Ice Cream	11
+10023-Indian	6
+10023-Indie	1
+10023-Italian	20
+10023-Japanese	6
+10023-Juice Bar	11
+10023-Karaoke	2
+10023-Korean	3
+10023-Latin American	1
+10023-Laundry	1
+10023-Liquor Store	1
+10023-Lounge	5
+10023-Mall	2
+10023-Market	1
+10023-Massage Studio	1
+10023-Mediterranean	5
+10023-Mexican	16
+10023-Middle Eastern	2
+10023-Museum	3
+10023-Music Venue	4
+10023-Nail Salon	1
+10023-New American	11
+10023-Nightclub	10
+10023-Nightlife	3
+10023-Office	1
+10023-Organic Grocery	1
+10023-Other Event	2
+10023-Park	3
+10023-Performing Arts	3
+10023-Persian	1
+10023-Pizza	17
+10023-Professional	1
+10023-Public Art	2
+10023-Ramen / Noodles	8
+10023-Record Shop	3
+10023-Residential	2
+10023-Restaurant	14
+10023-River	1
+10023-Road	1
+10023-Rock Club	2
+10023-Roof Deck	1
+10023-Salad	3
+10023-Salon / Barbershop	12
+10023-Sandwiches	8
+10023-Scenic Lookout	1
+10023-Seafood	8
+10023-Shoes	1
+10023-Shop	1
+10023-Soup	1
+10023-Southern / Soul	5
+10023-Spanish	2
+10023-Speakeasy	2
+10023-Sporting Goods	1
+10023-Steakhouse	3
+10023-Street Food Gathering	1
+10023-Supermarket	2
+10023-Sushi	2
+10023-TV Station	1
+10023-Tacos	5
+10023-Tapas	1
+10023-Tattoo	2
+10023-Tea Room	5
+10023-Tech Startup	5
+10023-Thai	2
+10023-Theater	3
+10023-Theme Park	2
+10023-Town	1
+10023-Trail	1
+10023-Train Station	1
+10023-Travel	1
+10023-Turkish	1
+10023-Vegetarian / Vegan	3
+10023-Vietnamese	2
+10023-Vineyard	1
+10023-Whisky Bar	1
+10023-Wine Bar	5
+10023-Wings	1
+10023-Yoga Studio	2
+10024-Administrative Building	1
+10024-American	25
+10024-Antiques	2
+10024-Apparel	1
+10024-Aquarium	1
+10024-Argentinian	1
+10024-Art Gallery	2
+10024-Art Museum	1
+10024-Asian	2
+10024-Australian	1
+10024-B & B	1
+10024-BBQ	3
+10024-Bagels	3
+10024-Bakery	8
+10024-Bar	21
+10024-Baseball Field	1
+10024-Beer Garden	1
+10024-Beer Store	1
+10024-Bookstore	2
+10024-Boutique	4
+10024-Brazilian	1
+10024-Breakfast	2
+10024-Brewery	3
+10024-Bridge	1
+10024-Burgers	23
+10024-Burritos	2
+10024-Caf??	22
+10024-Caribbean	3
+10024-Cheese Shop	1
+10024-Chinese	3
+10024-Cocktail	10
+10024-Coffee Shop	76
+10024-Cosmetics	1
+10024-Cupcakes	1
+10024-Cycle Studio	3
+10024-Deli / Bodega	5
+10024-Department Store	1
+10024-Desserts	1
+10024-Diner	4
+10024-Dive Bar	2
+10024-Doctor's Office	2
+10024-Donuts	2
+10024-Dumplings	3
+10024-Electronics	2
+10024-Entertainment	2
+10024-Factory	1
+10024-Fair	1
+10024-Falafel	1
+10024-Fast Food	2
+10024-Fish & Chips	3
+10024-Flea Market	2
+10024-Food Court	3
+10024-Food Truck	4
+10024-French	3
+10024-Fried Chicken	2
+10024-Frozen Yogurt	1
+10024-Gastropub	5
+10024-German	3
+10024-Gourmet	1
+10024-Government	1
+10024-Greek	1
+10024-Grocery Store	2
+10024-Gym	1
+10024-Gym / Fitness	2
+10024-Halal	1
+10024-Health Food Store	1
+10024-Home	5
+10024-Hotel	4
+10024-Housing Development	1
+10024-Ice Cream	6
+10024-Indian	3
+10024-Indie	1
+10024-Italian	19
+10024-Japanese	4
+10024-Jewelry	1
+10024-Juice Bar	4
+10024-Karaoke	1
+10024-Korean	1
+10024-Latin American	1
+10024-Laundry	1
+10024-Lounge	4
+10024-Massage Studio	1
+10024-Mediterranean	4
+10024-Mexican	11
+10024-Middle Eastern	2
+10024-Museum	1
+10024-Music Venue	1
+10024-Nail Salon	1
+10024-New American	8
+10024-Nightclub	8
+10024-Nightlife	2
+10024-Office	1
+10024-Organic Grocery	1
+10024-Other Event	1
+10024-Park	2
+10024-Performing Arts	2
+10024-Persian	1
+10024-Pizza	19
+10024-Portuguese	1
+10024-Professional	1
+10024-Pub	1
+10024-Public Art	1
+10024-Ramen / Noodles	8
+10024-Residential	1
+10024-Restaurant	8
+10024-River	1
+10024-Road	1
+10024-Rock Club	4
+10024-Salad	2
+10024-Salon / Barbershop	8
+10024-Sandwiches	5
+10024-Scenic Lookout	1
+10024-Seafood	7
+10024-Shoes	1
+10024-Shop	1
+10024-Southern / Soul	6
+10024-Spa	1
+10024-Spanish	1
+10024-Speakeasy	1
+10024-Sports Bar	1
+10024-Steakhouse	2
+10024-Supermarket	1
+10024-Sushi	2
+10024-Tacos	4
+10024-Tapas	4
+10024-Tattoo	1
+10024-Tea Room	2
+10024-Tech Startup	2
+10024-Thai	2
+10024-Theater	4
+10024-Theme Park	1
+10024-Train Station	1
+10024-Turkish	1
+10024-Vegetarian / Vegan	1
+10024-Vietnamese	2
+10024-Whisky Bar	2
+10024-Wine Bar	5
+10024-Winery	1
+10024-Wings	1
+10024-Women's Store	1
+10024-Yoga Studio	1
+10025-Administrative Building	1
+10025-American	26
+10025-Antiques	1
+10025-Aquarium	1
+10025-Arcade	1
+10025-Art Gallery	1
+10025-Art Museum	1
+10025-Asian	2
+10025-Automotive	1
+10025-BBQ	4
+10025-Bagels	1
+10025-Bakery	7
+10025-Bar	25
+10025-Baseball Field	1
+10025-Beer Garden	2
+10025-Beer Store	1
+10025-Bistro	1
+10025-Bookstore	1
+10025-Boutique	3
+10025-Breakfast	1
+10025-Brewery	5
+10025-Bridge	1
+10025-Bubble Tea	1
+10025-Building	1
+10025-Burgers	21
+10025-Caf??	18
+10025-Caribbean	2
+10025-Cheese Shop	1
+10025-Chinese	5
+10025-Cocktail	9
+10025-Coffee Shop	78
+10025-Cosmetics	1
+10025-Coworking Space	1
+10025-Cupcakes	1
+10025-Cycle Studio	2
+10025-Deli / Bodega	5
+10025-Desserts	1
+10025-Diner	4
+10025-Distillery	2
+10025-Dive Bar	2
+10025-Doctor's Office	2
+10025-Donuts	2
+10025-Dumplings	4
+10025-Factory	1
+10025-Fair	1
+10025-Falafel	1
+10025-Farm	1
+10025-Fast Food	2
+10025-Fish & Chips	2
+10025-Flea Market	2
+10025-Food Court	2
+10025-Food Truck	3
+10025-French	6
+10025-Fried Chicken	3
+10025-Frozen Yogurt	3
+10025-Gastropub	7
+10025-German	4
+10025-Gourmet	2
+10025-Greek	3
+10025-Grocery Store	4
+10025-Gym	2
+10025-Gym / Fitness	3
+10025-Halal	1
+10025-Historic Site	1
+10025-Home	7
+10025-Hotel	4
+10025-Hotel Bar	1
+10025-Housing Development	1
+10025-Ice Cream	6
+10025-Indian	3
+10025-Indie	1
+10025-Italian	15
+10025-Japanese	5
+10025-Jewelry	1
+10025-Juice Bar	3
+10025-Korean	3
+10025-Latin American	1
+10025-Laundry	1
+10025-Lounge	3
+10025-Massage Studio	1
+10025-Mediterranean	6
+10025-Mexican	8
+10025-Middle Eastern	1
+10025-Museum	1
+10025-Music Venue	2
+10025-Nail Salon	1
+10025-New American	10
+10025-Nightclub	8
+10025-Nightlife	2
+10025-Office	3
+10025-Office Supplies	1
+10025-Organic Grocery	1
+10025-Pakistani	1
+10025-Park	1
+10025-Performing Arts	3
+10025-Persian	1
+10025-Pet Store	1
+10025-Pizza	11
+10025-Plaza	1
+10025-Portuguese	1
+10025-Professional	1
+10025-Pub	1
+10025-Public Art	1
+10025-Ramen / Noodles	11
+10025-Residential	2
+10025-Restaurant	3
+10025-Road	1
+10025-Rock Club	4
+10025-Salad	1
+10025-Salon / Barbershop	10
+10025-Sandwiches	8
+10025-Scenic Lookout	1
+10025-Seafood	4
+10025-Shoes	1
+10025-Shop	1
+10025-Shops	1
+10025-Southern / Soul	6
+10025-Spa	1
+10025-Spanish	1
+10025-Speakeasy	1
+10025-Steakhouse	2
+10025-Supermarket	1
+10025-Sushi	2
+10025-Tacos	4
+10025-Tapas	3
+10025-Tattoo	1
+10025-Tea Room	2
+10025-Tech Startup	2
+10025-Thai	3
+10025-Theater	7
+10025-Theme Park	1
+10025-Train Station	1
+10025-Turkish	1
+10025-Vegetarian / Vegan	1
+10025-Vietnamese	1
+10025-Whisky Bar	2
+10025-Wine Bar	5
+10025-Winery	1
+10025-Wings	1
+10026-Administrative Building	1
+10026-American	20
+10026-Antiques	1
+10026-Aquarium	1
+10026-Art Gallery	1
+10026-Art Museum	1
+10026-Asian	1
+10026-BBQ	3
+10026-Bagels	1
+10026-Bakery	7
+10026-Bar	23
+10026-Baseball Field	1
+10026-Beer Garden	2
+10026-Beer Store	1
+10026-Bistro	1
+10026-Bookstore	1
+10026-Boutique	3
+10026-Breakfast	1
+10026-Brewery	4
+10026-Bridge	1
+10026-Bubble Tea	1
+10026-Building	1
+10026-Burgers	16
+10026-Caf??	17
+10026-Cheese Shop	1
+10026-Chinese	4
+10026-Cocktail	8
+10026-Coffee Shop	69
+10026-Cosmetics	1
+10026-Coworking Space	1
+10026-Cupcakes	1
+10026-Cycle Studio	2
+10026-Deli / Bodega	2
+10026-Desserts	1
+10026-Diner	1
+10026-Distillery	2
+10026-Dive Bar	1
+10026-Doctor's Office	2
+10026-Donuts	2
+10026-Dumplings	4
+10026-Factory	1
+10026-Farm	1
+10026-Fast Food	2
+10026-Fish & Chips	1
+10026-Flea Market	2
+10026-Food Court	2
+10026-Food Truck	3
+10026-French	5
+10026-Fried Chicken	3
+10026-Frozen Yogurt	2
+10026-Gastropub	7
+10026-German	2
+10026-Gourmet	2
+10026-Greek	3
+10026-Grocery Store	3
+10026-Gym	2
+10026-Gym / Fitness	3
+10026-Halal	1
+10026-Home	6
+10026-Hotel	4
+10026-Hotel Bar	1
+10026-Housing Development	1
+10026-Ice Cream	6
+10026-Indian	2
+10026-Indie	1
+10026-Italian	14
+10026-Japanese	3
+10026-Juice Bar	2
+10026-Korean	3
+10026-Latin American	1
+10026-Laundry	1
+10026-Lounge	2
+10026-Massage Studio	1
+10026-Mediterranean	6
+10026-Mexican	7
+10026-Middle Eastern	1
+10026-Museum	1
+10026-Music Venue	1
+10026-Nail Salon	1
+10026-New American	10
+10026-Nightclub	6
+10026-Nightlife	1
+10026-Office	3
+10026-Office Supplies	1
+10026-Organic Grocery	1
+10026-Pakistani	1
+10026-Park	1
+10026-Performing Arts	3
+10026-Persian	1
+10026-Pizza	9
+10026-Plaza	1
+10026-Portuguese	1
+10026-Professional	1
+10026-Pub	1
+10026-Public Art	1
+10026-Ramen / Noodles	9
+10026-Residential	2
+10026-Restaurant	2
+10026-Road	1
+10026-Rock Club	3
+10026-Salad	1
+10026-Salon / Barbershop	10
+10026-Sandwiches	6
+10026-Scenic Lookout	1
+10026-Seafood	3
+10026-Shoes	1
+10026-Shop	1
+10026-Shops	1
+10026-Southern / Soul	5
+10026-Spa	1
+10026-Speakeasy	1
+10026-Steakhouse	1
+10026-Sushi	2
+10026-Tacos	3
+10026-Tapas	3
+10026-Tattoo	1
+10026-Tea Room	2
+10026-Tech Startup	2
+10026-Thai	2
+10026-Theater	4
+10026-Train Station	1
+10026-Turkish	1
+10026-Vegetarian / Vegan	1
+10026-Vietnamese	1
+10026-Whisky Bar	2
+10026-Wine Bar	5
+10026-Winery	1
+10026-Wings	1
+10027-Administrative Building	1
+10027-American	19
+10027-Antiques	1
+10027-Aquarium	1
+10027-Art Gallery	1
+10027-Asian	1
+10027-BBQ	3
+10027-Bagels	1
+10027-Bakery	7
+10027-Bar	20
+10027-Baseball Field	1
+10027-Beer Garden	2
+10027-Bistro	1
+10027-Bookstore	1
+10027-Boutique	2
+10027-Breakfast	1
+10027-Brewery	3
+10027-Bridge	1
+10027-Bubble Tea	1
+10027-Building	1
+10027-Burgers	14
+10027-Caf??	15
+10027-Cheese Shop	1
+10027-Chinese	4
+10027-Cocktail	8
+10027-Coffee Shop	66
+10027-Cosmetics	1
+10027-Cupcakes	1
+10027-Cycle Studio	2
+10027-Deli / Bodega	2
+10027-Desserts	1
+10027-Diner	1
+10027-Distillery	2
+10027-Doctor's Office	2
+10027-Donuts	2
+10027-Dumplings	4
+10027-Factory	1
+10027-Farm	1
+10027-Fast Food	1
+10027-Fish & Chips	1
+10027-Flea Market	1
+10027-Food Court	2
+10027-Food Truck	3
+10027-French	5
+10027-Fried Chicken	3
+10027-Frozen Yogurt	2
+10027-Gastropub	7
+10027-Gourmet	2
+10027-Greek	3
+10027-Grocery Store	3
+10027-Gym	1
+10027-Gym / Fitness	2
+10027-Halal	1
+10027-Home	5
+10027-Hotel	4
+10027-Hotel Bar	1
+10027-Housing Development	1
+10027-Ice Cream	6
+10027-Indian	2
+10027-Indie	1
+10027-Italian	11
+10027-Japanese	1
+10027-Juice Bar	2
+10027-Korean	3
+10027-Latin American	1
+10027-Laundry	1
+10027-Massage Studio	1
+10027-Mediterranean	5
+10027-Mexican	7
+10027-Middle Eastern	1
+10027-Museum	1
+10027-Music Venue	1
+10027-Nail Salon	1
+10027-New American	9
+10027-Nightclub	6
+10027-Nightlife	1
+10027-Office	3
+10027-Office Supplies	1
+10027-Organic Grocery	1
+10027-Pakistani	1
+10027-Park	1
+10027-Performing Arts	2
+10027-Persian	1
+10027-Pizza	9
+10027-Plaza	1
+10027-Portuguese	1
+10027-Professional	1
+10027-Public Art	1
+10027-Ramen / Noodles	8
+10027-Residential	2
+10027-Restaurant	2
+10027-Road	1
+10027-Rock Club	2
+10027-Salad	1
+10027-Salon / Barbershop	8
+10027-Sandwiches	6
+10027-Scenic Lookout	1
+10027-Seafood	3
+10027-Shoes	1
+10027-Shop	1
+10027-Shops	1
+10027-Southern / Soul	5
+10027-Speakeasy	1
+10027-Steakhouse	1
+10027-Sushi	2
+10027-Tacos	3
+10027-Tapas	3
+10027-Tattoo	1
+10027-Tea Room	2
+10027-Tech Startup	2
+10027-Thai	2
+10027-Theater	4
+10027-Train Station	1
+10027-Turkish	1
+10027-Vegetarian / Vegan	1
+10027-Vietnamese	1
+10027-Whisky Bar	2
+10027-Wine Bar	5
+10027-Winery	1
+10027-Wings	1
+10028-Accessories	1
+10028-Administrative Building	1
+10028-American	23
+10028-Antiques	1
+10028-Apparel	2
+10028-Aquarium	1
+10028-Arcade	1
+10028-Art Gallery	2
+10028-Art Museum	1
+10028-Arts & Crafts	2
+10028-Asian	3
+10028-Australian	2
+10028-B & B	1
+10028-BBQ	3
+10028-Bagels	3
+10028-Bakery	14
+10028-Bar	26
+10028-Baseball Field	1
+10028-Beach	1
+10028-Beer Garden	1
+10028-Beer Store	1
+10028-Boat / Ferry	1
+10028-Bookstore	1
+10028-Boutique	3
+10028-Breakfast	4
+10028-Brewery	6
+10028-Bridge	1
+10028-Burgers	21
+10028-Burritos	1
+10028-Caf??	23
+10028-Caribbean	3
+10028-Chinese	5
+10028-Chocolate Shop	1
+10028-Cocktail	6
+10028-Coffee Shop	85
+10028-Cosmetics	1
+10028-Coworking Space	1
+10028-Cuban	1
+10028-Cultural Center	1
+10028-Cupcakes	1
+10028-Cycle Studio	1
+10028-Deli / Bodega	6
+10028-Desserts	6
+10028-Diner	5
+10028-Dive Bar	3
+10028-Donuts	2
+10028-Dumplings	3
+10028-Electronics	1
+10028-Entertainment	1
+10028-Event Space	1
+10028-Factory	1
+10028-Fair	1
+10028-Falafel	1
+10028-Fast Food	1
+10028-Fish & Chips	1
+10028-Fish Market	1
+10028-Flea Market	3
+10028-Food	1
+10028-Food Court	3
+10028-Food Truck	2
+10028-French	4
+10028-Fried Chicken	1
+10028-Furniture / Home	1
+10028-Gastropub	3
+10028-German	4
+10028-Gourmet	2
+10028-Greek	1
+10028-Grocery Store	1
+10028-Gym	3
+10028-Gym / Fitness	7
+10028-Halal	1
+10028-High School	1
+10028-Home	5
+10028-Hotel	4
+10028-Housing Development	1
+10028-Ice Cream	7
+10028-Indian	5
+10028-Indie	1
+10028-Italian	15
+10028-Japanese	7
+10028-Juice Bar	6
+10028-Karaoke	2
+10028-Korean	2
+10028-Latin American	1
+10028-Laundry	1
+10028-Lounge	4
+10028-Market	1
+10028-Massage Studio	1
+10028-Mediterranean	5
+10028-Mexican	9
+10028-Middle Eastern	1
+10028-Museum	3
+10028-Music Venue	3
+10028-Nail Salon	1
+10028-New American	8
+10028-Nightclub	8
+10028-Nightlife	2
+10028-Office	1
+10028-Organic Grocery	1
+10028-Other Event	1
+10028-Park	2
+10028-Performing Arts	3
+10028-Persian	1
+10028-Pizza	13
+10028-Professional	1
+10028-Pub	1
+10028-Public Art	1
+10028-Ramen / Noodles	6
+10028-Record Shop	3
+10028-Residential	2
+10028-Restaurant	7
+10028-River	1
+10028-Road	1
+10028-Rock Club	3
+10028-Roof Deck	1
+10028-Salad	2
+10028-Salon / Barbershop	10
+10028-Sandwiches	3
+10028-Scenic Lookout	1
+10028-Seafood	3
+10028-Shoes	1
+10028-Shop	1
+10028-Soup	1
+10028-Southern / Soul	3
+10028-Spa	1
+10028-Spanish	1
+10028-Speakeasy	2
+10028-Steakhouse	1
+10028-Street Food Gathering	1
+10028-Supermarket	1
+10028-Sushi	2
+10028-TV Station	1
+10028-Tacos	3
+10028-Tapas	1
+10028-Tattoo	2
+10028-Tea Room	2
+10028-Tech Startup	3
+10028-Thai	1
+10028-Theater	3
+10028-Theme Park	1
+10028-Town	1
+10028-Train Station	1
+10028-Travel	1
+10028-Turkish	1
+10028-Vegetarian / Vegan	1
+10028-Vietnamese	2
+10028-Vineyard	1
+10028-Wine Bar	4
+10028-Wings	1
+10028-Yoga Studio	1
+10029-Administrative Building	1
+10029-American	20
+10029-Antiques	1
+10029-Aquarium	1
+10029-Art Gallery	1
+10029-Art Museum	1
+10029-Asian	1
+10029-BBQ	3
+10029-Bagels	1
+10029-Bakery	7
+10029-Bar	23
+10029-Baseball Field	1
+10029-Beer Garden	2
+10029-Beer Store	1
+10029-Bistro	1
+10029-Bookstore	1
+10029-Boutique	3
+10029-Breakfast	1
+10029-Brewery	4
+10029-Bridge	1
+10029-Bubble Tea	1
+10029-Building	1
+10029-Burgers	16
+10029-Caf??	17
+10029-Cheese Shop	1
+10029-Chinese	4
+10029-Cocktail	8
+10029-Coffee Shop	69
+10029-Cosmetics	1
+10029-Coworking Space	1
+10029-Cupcakes	1
+10029-Cycle Studio	2
+10029-Deli / Bodega	2
+10029-Desserts	1
+10029-Diner	1
+10029-Distillery	2
+10029-Dive Bar	1
+10029-Doctor's Office	2
+10029-Donuts	2
+10029-Dumplings	4
+10029-Factory	1
+10029-Farm	1
+10029-Fast Food	2
+10029-Fish & Chips	1
+10029-Flea Market	2
+10029-Food Court	2
+10029-Food Truck	3
+10029-French	5
+10029-Fried Chicken	3
+10029-Frozen Yogurt	2
+10029-Gastropub	7
+10029-German	2
+10029-Gourmet	2
+10029-Greek	3
+10029-Grocery Store	3
+10029-Gym	2
+10029-Gym / Fitness	3
+10029-Halal	1
+10029-Home	6
+10029-Hotel	4
+10029-Hotel Bar	1
+10029-Housing Development	1
+10029-Ice Cream	6
+10029-Indian	2
+10029-Indie	1
+10029-Italian	14
+10029-Japanese	3
+10029-Juice Bar	2
+10029-Korean	3
+10029-Latin American	1
+10029-Laundry	1
+10029-Lounge	2
+10029-Massage Studio	1
+10029-Mediterranean	6
+10029-Mexican	7
+10029-Middle Eastern	1
+10029-Museum	1
+10029-Music Venue	1
+10029-Nail Salon	1
+10029-New American	10
+10029-Nightclub	6
+10029-Nightlife	1
+10029-Office	3
+10029-Office Supplies	1
+10029-Organic Grocery	1
+10029-Pakistani	1
+10029-Park	1
+10029-Performing Arts	3
+10029-Persian	1
+10029-Pizza	9
+10029-Plaza	1
+10029-Portuguese	1
+10029-Professional	1
+10029-Pub	1
+10029-Public Art	1
+10029-Ramen / Noodles	9
+10029-Residential	2
+10029-Restaurant	2
+10029-Road	1
+10029-Rock Club	3
+10029-Salad	1
+10029-Salon / Barbershop	10
+10029-Sandwiches	6
+10029-Scenic Lookout	1
+10029-Seafood	3
+10029-Shoes	1
+10029-Shop	1
+10029-Shops	1
+10029-Southern / Soul	5
+10029-Spa	1
+10029-Speakeasy	1
+10029-Steakhouse	1
+10029-Sushi	2
+10029-Tacos	3
+10029-Tapas	3
+10029-Tattoo	1
+10029-Tea Room	2
+10029-Tech Startup	2
+10029-Thai	2
+10029-Theater	4
+10029-Train Station	1
+10029-Turkish	1
+10029-Vegetarian / Vegan	1
+10029-Vietnamese	1
+10029-Whisky Bar	2
+10029-Wine Bar	5
+10029-Winery	1
+10029-Wings	1
+10030-Administrative Building	1
+10030-American	19
+10030-Antiques	1
+10030-Aquarium	1
+10030-Art Gallery	1
+10030-Asian	1
+10030-BBQ	3
+10030-Bagels	1
+10030-Bakery	7
+10030-Bar	20
+10030-Baseball Field	1
+10030-Beer Garden	2
+10030-Bistro	1
+10030-Bookstore	1
+10030-Boutique	2
+10030-Breakfast	1
+10030-Brewery	3
+10030-Bridge	1
+10030-Bubble Tea	1
+10030-Building	1
+10030-Burgers	14
+10030-Caf??	15
+10030-Cheese Shop	1
+10030-Chinese	4
+10030-Cocktail	8
+10030-Coffee Shop	66
+10030-Cosmetics	1
+10030-Cupcakes	1
+10030-Cycle Studio	2
+10030-Deli / Bodega	2
+10030-Desserts	1
+10030-Diner	1
+10030-Distillery	2
+10030-Doctor's Office	2
+10030-Donuts	2
+10030-Dumplings	4
+10030-Factory	1
+10030-Farm	1
+10030-Fast Food	1
+10030-Fish & Chips	1
+10030-Flea Market	1
+10030-Food Court	2
+10030-Food Truck	3
+10030-French	5
+10030-Fried Chicken	3
+10030-Frozen Yogurt	2
+10030-Gastropub	7
+10030-Gourmet	2
+10030-Greek	3
+10030-Grocery Store	3
+10030-Gym	1
+10030-Gym / Fitness	2
+10030-Halal	1
+10030-Home	5
+10030-Hotel	4
+10030-Hotel Bar	1
+10030-Housing Development	1
+10030-Ice Cream	6
+10030-Indian	2
+10030-Indie	1
+10030-Italian	11
+10030-Japanese	1
+10030-Juice Bar	2
+10030-Korean	3
+10030-Latin American	1
+10030-Laundry	1
+10030-Massage Studio	1
+10030-Mediterranean	5
+10030-Mexican	7
+10030-Middle Eastern	1
+10030-Museum	1
+10030-Music Venue	1
+10030-Nail Salon	1
+10030-New American	9
+10030-Nightclub	6
+10030-Nightlife	1
+10030-Office	3
+10030-Office Supplies	1
+10030-Organic Grocery	1
+10030-Pakistani	1
+10030-Park	1
+10030-Performing Arts	2
+10030-Persian	1
+10030-Pizza	9
+10030-Plaza	1
+10030-Portuguese	1
+10030-Professional	1
+10030-Public Art	1
+10030-Ramen / Noodles	8
+10030-Residential	2
+10030-Restaurant	2
+10030-Road	1
+10030-Rock Club	2
+10030-Salad	1
+10030-Salon / Barbershop	8
+10030-Sandwiches	6
+10030-Scenic Lookout	1
+10030-Seafood	3
+10030-Shoes	1
+10030-Shop	1
+10030-Shops	1
+10030-Southern / Soul	5
+10030-Speakeasy	1
+10030-Steakhouse	1
+10030-Sushi	2
+10030-Tacos	3
+10030-Tapas	3
+10030-Tattoo	1
+10030-Tea Room	2
+10030-Tech Startup	2
+10030-Thai	2
+10030-Theater	4
+10030-Train Station	1
+10030-Turkish	1
+10030-Vegetarian / Vegan	1
+10030-Vietnamese	1
+10030-Whisky Bar	2
+10030-Wine Bar	5
+10030-Winery	1
+10030-Wings	1
+10031-Administrative Building	1
+10031-American	11
+10031-Aquarium	1
+10031-Art Gallery	1
+10031-Art Museum	1
+10031-Asian	1
+10031-BBQ	1
+10031-Bagels	1
+10031-Bakery	7
+10031-Bar	18
+10031-Baseball Field	1
+10031-Beer Garden	1
+10031-Beer Store	1
+10031-Boutique	3
+10031-Brewery	3
+10031-Bridge	1
+10031-Bubble Tea	1
+10031-Burgers	14
+10031-Caf??	10
+10031-Chinese	3
+10031-Cocktail	3
+10031-Coffee Shop	41
+10031-Cosmetics	1
+10031-Coworking Space	1
+10031-Deli / Bodega	1
+10031-Desserts	1
+10031-Diner	1
+10031-Dive Bar	1
+10031-Donuts	2
+10031-Dumplings	3
+10031-Factory	1
+10031-Fast Food	1
+10031-Flea Market	2
+10031-Food Court	2
+10031-Food Truck	3
+10031-French	2
+10031-Fried Chicken	2
+10031-Frozen Yogurt	1
+10031-Gastropub	2
+10031-German	2
+10031-Gourmet	1
+10031-Greek	2
+10031-Grocery Store	2
+10031-Gym	2
+10031-Gym / Fitness	3
+10031-Halal	1
+10031-Home	5
+10031-Hotel	2
+10031-Hotel Bar	1
+10031-Housing Development	1
+10031-Ice Cream	4
+10031-Indian	2
+10031-Italian	8
+10031-Japanese	2
+10031-Juice Bar	2
+10031-Laundry	1
+10031-Lounge	2
+10031-Massage Studio	1
+10031-Mediterranean	5
+10031-Mexican	4
+10031-Museum	1
+10031-Music Venue	1
+10031-New American	6
+10031-Nightclub	3
+10031-Nightlife	1
+10031-Office	1
+10031-Office Supplies	1
+10031-Organic Grocery	1
+10031-Pakistani	1
+10031-Performing Arts	1
+10031-Persian	1
+10031-Pizza	7
+10031-Professional	1
+10031-Pub	1
+10031-Public Art	1
+10031-Ramen / Noodles	5
+10031-Residential	1
+10031-Restaurant	1
+10031-Road	1
+10031-Rock Club	2
+10031-Salad	1
+10031-Salon / Barbershop	7
+10031-Sandwiches	1
+10031-Scenic Lookout	1
+10031-Seafood	2
+10031-Shoes	1
+10031-Shop	1
+10031-Southern / Soul	2
+10031-Spa	1
+10031-Steakhouse	1
+10031-Sushi	2
+10031-Tacos	2
+10031-Tapas	1
+10031-Tattoo	1
+10031-Tea Room	1
+10031-Tech Startup	1
+10031-Thai	2
+10031-Theater	3
+10031-Train Station	1
+10031-Vegetarian / Vegan	1
+10031-Vietnamese	1
+10031-Wine Bar	4
+10031-Wings	1
+10032-Administrative Building	1
+10032-American	17
+10032-Antiques	1
+10032-Aquarium	1
+10032-Art Gallery	2
+10032-Asian	1
+10032-Athletics & Sports	1
+10032-BBQ	2
+10032-Bagels	1
+10032-Bakery	7
+10032-Bar	23
+10032-Baseball Field	2
+10032-Beer Garden	3
+10032-Bookstore	1
+10032-Boutique	2
+10032-Breakfast	1
+10032-Brewery	2
+10032-Bridge	1
+10032-Bubble Tea	1
+10032-Burgers	13
+10032-Caf??	13
+10032-Campground	1
+10032-Cheese Shop	1
+10032-Chinese	4
+10032-Church	1
+10032-Cocktail	6
+10032-Coffee Shop	67
+10032-Convenience Stores	1
+10032-Cosmetics	1
+10032-Cupcakes	1
+10032-Cycle Studio	2
+10032-Deli / Bodega	2
+10032-Desserts	1
+10032-Diner	1
+10032-Doctor's Office	2
+10032-Donuts	2
+10032-Dumplings	4
+10032-Electronics	1
+10032-Factory	1
+10032-Fast Food	1
+10032-Fish & Chips	1
+10032-Flea Market	1
+10032-Food & Drink	1
+10032-Food Court	2
+10032-Food Truck	3
+10032-French	4
+10032-Fried Chicken	3
+10032-Frozen Yogurt	1
+10032-Gastropub	6
+10032-Gourmet	1
+10032-Greek	2
+10032-Grocery Store	3
+10032-Gym	1
+10032-Gym / Fitness	2
+10032-Halal	1
+10032-Home	5
+10032-Hotel	3
+10032-Hotel Bar	1
+10032-Housing Development	1
+10032-Ice Cream	6
+10032-Indian	2
+10032-Indie	1
+10032-Italian	11
+10032-Japanese	1
+10032-Juice Bar	2
+10032-Karaoke	1
+10032-Korean	1
+10032-Latin American	1
+10032-Laundry	1
+10032-Massage Studio	1
+10032-Mediterranean	5
+10032-Mexican	7
+10032-Middle Eastern	1
+10032-Museum	1
+10032-Music Venue	1
+10032-Nail Salon	1
+10032-Neighborhood	1
+10032-New American	8
+10032-Nightclub	3
+10032-Nightlife	1
+10032-Office	2
+10032-Office Supplies	1
+10032-Organic Grocery	1
+10032-Pakistani	1
+10032-Park	1
+10032-Performing Arts	1
+10032-Persian	1
+10032-Pizza	12
+10032-Professional	1
+10032-Public Art	1
+10032-Ramen / Noodles	7
+10032-Residential	1
+10032-Restaurant	3
+10032-Road	1
+10032-Rock Club	2
+10032-Salad	1
+10032-Salon / Barbershop	6
+10032-Sandwiches	4
+10032-Scenic Lookout	1
+10032-Seafood	3
+10032-Shoes	1
+10032-Shop	1
+10032-Shrine	2
+10032-Southern / Soul	5
+10032-Speakeasy	1
+10032-Steakhouse	1
+10032-Sushi	2
+10032-Tacos	3
+10032-Tapas	3
+10032-Tattoo	1
+10032-Tea Room	2
+10032-Tech Startup	1
+10032-Thai	2
+10032-Theater	4
+10032-Train Station	1
+10032-Turkish	1
+10032-Vegetarian / Vegan	1
+10032-Vietnamese	1
+10032-Whisky Bar	2
+10032-Wine Bar	6
+10032-Wine Shop	1
+10032-Wings	1
+10033-Administrative Building	1
+10033-American	20
+10033-Antiques	1
+10033-Aquarium	1
+10033-Art Gallery	1
+10033-Asian	1
+10033-Athletics & Sports	1
+10033-BBQ	3
+10033-Bagels	1
+10033-Bakery	7
+10033-Bar	23
+10033-Baseball Field	2
+10033-Beer Garden	3
+10033-Bistro	1
+10033-Bookstore	1
+10033-Boutique	2
+10033-Breakfast	1
+10033-Brewery	3
+10033-Bridge	1
+10033-Bubble Tea	1
+10033-Building	1
+10033-Burgers	14
+10033-Caf??	15
+10033-Campground	1
+10033-Cheese Shop	1
+10033-Chinese	4
+10033-Church	1
+10033-Cocktail	8
+10033-Coffee Shop	71
+10033-Convenience Stores	1
+10033-Cosmetics	1
+10033-Cupcakes	1
+10033-Cycle Studio	2
+10033-Deli / Bodega	2
+10033-Desserts	1
+10033-Diner	1
+10033-Distillery	2
+10033-Doctor's Office	2
+10033-Donuts	2
+10033-Dumplings	4
+10033-Factory	1
+10033-Farm	1
+10033-Fast Food	1
+10033-Fish & Chips	1
+10033-Flea Market	1
+10033-Food Court	2
+10033-Food Truck	3
+10033-French	5
+10033-Fried Chicken	3
+10033-Frozen Yogurt	2
+10033-Gastropub	7
+10033-Gourmet	2
+10033-Greek	3
+10033-Grocery Store	3
+10033-Gym	1
+10033-Gym / Fitness	2
+10033-Halal	1
+10033-Home	5
+10033-Hotel	4
+10033-Hotel Bar	1
+10033-Housing Development	1
+10033-Ice Cream	6
+10033-Indian	2
+10033-Indie	1
+10033-Italian	11
+10033-Japanese	1
+10033-Juice Bar	2
+10033-Korean	3
+10033-Latin American	1
+10033-Laundry	1
+10033-Massage Studio	1
+10033-Mediterranean	5
+10033-Mexican	7
+10033-Middle Eastern	1
+10033-Museum	1
+10033-Music Venue	1
+10033-Nail Salon	1
+10033-Neighborhood	1
+10033-New American	9
+10033-Nightclub	6
+10033-Nightlife	1
+10033-Office	4
+10033-Office Supplies	1
+10033-Organic Grocery	1
+10033-Pakistani	1
+10033-Park	1
+10033-Performing Arts	2
+10033-Persian	1
+10033-Pizza	12
+10033-Plaza	1
+10033-Portuguese	1
+10033-Professional	1
+10033-Public Art	1
+10033-Ramen / Noodles	8
+10033-Residential	2
+10033-Restaurant	3
+10033-Road	1
+10033-Rock Club	2
+10033-Salad	1
+10033-Salon / Barbershop	8
+10033-Sandwiches	6
+10033-Scenic Lookout	1
+10033-Seafood	3
+10033-Shoes	1
+10033-Shop	1
+10033-Shops	1
+10033-Southern / Soul	6
+10033-Speakeasy	1
+10033-Steakhouse	1
+10033-Sushi	2
+10033-Tacos	3
+10033-Tapas	3
+10033-Tattoo	1
+10033-Tea Room	2
+10033-Tech Startup	2
+10033-Thai	2
+10033-Theater	4
+10033-Train Station	1
+10033-Turkish	1
+10033-Vegetarian / Vegan	1
+10033-Vietnamese	1
+10033-Whisky Bar	2
+10033-Wine Bar	6
+10033-Wine Shop	1
+10033-Winery	1
+10033-Wings	1
+10034-Administrative Building	1
+10034-American	11
+10034-Apparel	1
+10034-Aquarium	1
+10034-Art Gallery	1
+10034-Arts & Crafts	1
+10034-Asian	2
+10034-Athletics & Sports	1
+10034-BBQ	1
+10034-Bagels	1
+10034-Bakery	6
+10034-Bank	1
+10034-Bar	13
+10034-Baseball Field	1
+10034-Beer Garden	1
+10034-Boutique	2
+10034-Brewery	2
+10034-Bubble Tea	1
+10034-Building	1
+10034-Burgers	15
+10034-Caf??	5
+10034-Campground	1
+10034-Caribbean	2
+10034-Check Cashing Service	1
+10034-Chinese	3
+10034-Church	1
+10034-Circus	1
+10034-City	1
+10034-Cocktail	2
+10034-Coffee Shop	39
+10034-Concert Hall	1
+10034-Convenience Stores	2
+10034-Coworking Space	2
+10034-Deli / Bodega	2
+10034-Desserts	1
+10034-Diner	1
+10034-Donuts	2
+10034-Dumplings	3
+10034-Entertainment	4
+10034-Factory	1
+10034-Fair	1
+10034-Festival	2
+10034-Flea Market	2
+10034-Flower Shop	1
+10034-Food Court	1
+10034-Food Truck	6
+10034-Football	2
+10034-French	2
+10034-Fried Chicken	4
+10034-Frozen Yogurt	1
+10034-Garden	1
+10034-Gas Station / Garage	1
+10034-Gastropub	2
+10034-Gourmet	1
+10034-Government	1
+10034-Greek	2
+10034-Grocery Store	2
+10034-Gym	1
+10034-Gym / Fitness	1
+10034-Home	12
+10034-Hotel	1
+10034-Hotel Bar	2
+10034-Housing Development	1
+10034-Ice Cream	4
+10034-Indian	2
+10034-Italian	3
+10034-Juice Bar	2
+10034-Laundry	1
+10034-Liquor Store	1
+10034-Mall	2
+10034-Massage Studio	2
+10034-Mediterranean	4
+10034-Mexican	3
+10034-Middle Eastern	1
+10034-Moving Target	2
+10034-Museum	1
+10034-Neighborhood	1
+10034-New American	5
+10034-Nightclub	3
+10034-Nightlife	1
+10034-Office	2
+10034-Office Supplies	1
+10034-Organic Grocery	1
+10034-Other Event	1
+10034-Other Outdoors	2
+10034-Pakistani	1
+10034-Persian	1
+10034-Pizza	16
+10034-Professional	1
+10034-Public Art	1
+10034-Racetrack	2
+10034-Ramen / Noodles	5
+10034-Residential	1
+10034-Restaurant	4
+10034-Road	1
+10034-Rock Club	1
+10034-Salad	1
+10034-Salon / Barbershop	3
+10034-Sandwiches	2
+10034-Scenic Lookout	1
+10034-Seafood	3
+10034-Shoes	2
+10034-Shop	3
+10034-Smoke Shop	1
+10034-Southern / Soul	3
+10034-Speakeasy	3
+10034-Steakhouse	1
+10034-Strip Club	1
+10034-Surf Spot	1
+10034-Sushi	2
+10034-Tacos	1
+10034-Tapas	1
+10034-Tea Room	1
+10034-Tech Startup	1
+10034-Thai	2
+10034-Theater	2
+10034-Vegetarian / Vegan	1
+10034-Wine Bar	4
+10034-Wine Shop	1
+10034-Winery	1
+10034-Yoga Studio	2
+10035-Administrative Building	1
+10035-American	21
+10035-Antiques	1
+10035-Apparel	1
+10035-Aquarium	1
+10035-Art Gallery	2
+10035-Asian	1
+10035-Australian	1
+10035-BBQ	4
+10035-Bagels	1
+10035-Bakery	8
+10035-Bar	24
+10035-Baseball Field	1
+10035-Beer Garden	5
+10035-Bistro	1
+10035-Bookstore	1
+10035-Boutique	3
+10035-Breakfast	2
+10035-Brewery	3
+10035-Bridge	1
+10035-Bubble Tea	1
+10035-Building	1
+10035-Burgers	14
+10035-Caf??	15
+10035-Cheese Shop	1
+10035-Chinese	4
+10035-Church	1
+10035-Cocktail	8
+10035-Coffee Shop	67
+10035-Cosmetics	1
+10035-Cupcakes	1
+10035-Cycle Studio	2
+10035-Deli / Bodega	6
+10035-Design	1
+10035-Desserts	1
+10035-Diner	3
+10035-Distillery	2
+10035-Doctor's Office	2
+10035-Donuts	2
+10035-Dumplings	4
+10035-Electronics	1
+10035-Entertainment	1
+10035-Factory	1
+10035-Farm	1
+10035-Fast Food	1
+10035-Fish & Chips	1
+10035-Flea Market	1
+10035-Food & Drink	1
+10035-Food Court	2
+10035-Food Truck	4
+10035-French	5
+10035-Fried Chicken	3
+10035-Frozen Yogurt	2
+10035-Gastropub	8
+10035-Gift Shop	1
+10035-Gourmet	2
+10035-Greek	4
+10035-Grocery Store	3
+10035-Gym	1
+10035-Gym / Fitness	2
+10035-Halal	1
+10035-Home	5
+10035-Hotel	4
+10035-Hotel Bar	1
+10035-Housing Development	1
+10035-Ice Cream	6
+10035-Indian	2
+10035-Indie	1
+10035-Italian	12
+10035-Japanese	1
+10035-Juice Bar	2
+10035-Karaoke	1
+10035-Korean	4
+10035-Latin American	1
+10035-Laundry	1
+10035-Library	1
+10035-Massage Studio	1
+10035-Mediterranean	5
+10035-Mexican	8
+10035-Middle Eastern	2
+10035-Museum	1
+10035-Music Venue	1
+10035-Nail Salon	1
+10035-New American	10
+10035-Nightclub	6
+10035-Nightlife	1
+10035-Office	3
+10035-Office Supplies	1
+10035-Organic Grocery	1
+10035-Pakistani	1
+10035-Park	1
+10035-Performing Arts	2
+10035-Persian	1
+10035-Pet Service	1
+10035-Pizza	12
+10035-Plaza	1
+10035-Portuguese	1
+10035-Professional	1
+10035-Public Art	1
+10035-Ramen / Noodles	8
+10035-Residential	2
+10035-Restaurant	4
+10035-Road	1
+10035-Rock Club	2
+10035-Salad	1
+10035-Salon / Barbershop	8
+10035-Sandwiches	7
+10035-Scenic Lookout	1
+10035-Seafood	4
+10035-Shoes	1
+10035-Shop	1
+10035-Shops	1
+10035-Shrine	2
+10035-Southern / Soul	5
+10035-Speakeasy	2
+10035-Sports Bar	2
+10035-Steakhouse	2
+10035-Sushi	2
+10035-Tacos	4
+10035-Tanning Salon	1
+10035-Tapas	3
+10035-Tattoo	1
+10035-Taxi	1
+10035-Tea Room	2
+10035-Tech Startup	4
+10035-Thai	2
+10035-Theater	4
+10035-Train Station	1
+10035-Turkish	1
+10035-Vegetarian / Vegan	1
+10035-Video Games	1
+10035-Vietnamese	2
+10035-Whisky Bar	3
+10035-Wine Bar	5
+10035-Winery	1
+10035-Wings	1
+10036-Accessories	1
+10036-Administrative Building	1
+10036-American	41
+10036-Antiques	1
+10036-Apparel	7
+10036-Arcade	1
+10036-Argentinian	1
+10036-Art Gallery	1
+10036-Arts & Crafts	3
+10036-Asian	5
+10036-Australian	2
+10036-B & B	2
+10036-BBQ	9
+10036-Bagels	10
+10036-Bakery	26
+10036-Bar	32
+10036-Baseball Field	1
+10036-Beach	2
+10036-Beer Garden	4
+10036-Bistro	1
+10036-Boat / Ferry	1
+10036-Bookstore	2
+10036-Boutique	1
+10036-Brazilian	2
+10036-Breakfast	8
+10036-Brewery	4
+10036-Bridge	1
+10036-Buffet	1
+10036-Burgers	28
+10036-Burritos	2
+10036-Bus Station	1
+10036-Caf??	37
+10036-Caribbean	3
+10036-Casino	2
+10036-Chinese	8
+10036-Chocolate Shop	1
+10036-Cineplex	1
+10036-Cocktail	22
+10036-Coffee Shop	133
+10036-Comedy Club	1
+10036-Convenience Stores	1
+10036-Cosmetics	1
+10036-Creperie	1
+10036-Cricket	1
+10036-Cuban	1
+10036-Cultural Center	1
+10036-Cupcakes	2
+10036-Cycle Studio	2
+10036-Deli / Bodega	7
+10036-Design	2
+10036-Desserts	14
+10036-Diner	4
+10036-Dive Bar	4
+10036-Donuts	2
+10036-Dumplings	2
+10036-Eastern European	1
+10036-Electronics	2
+10036-Entertainment	2
+10036-Event Space	1
+10036-Factory	1
+10036-Fair	2
+10036-Falafel	1
+10036-Farm	1
+10036-Farmer's Market	2
+10036-Fast Food	6
+10036-Filipino	4
+10036-Fish & Chips	1
+10036-Fish Market	1
+10036-Flea Market	2
+10036-Food	1
+10036-Food & Drink	1
+10036-Food Court	3
+10036-Food Truck	2
+10036-Football	1
+10036-French	8
+10036-Fried Chicken	3
+10036-Frozen Yogurt	4
+10036-Furniture / Home	2
+10036-Garden	1
+10036-Gastropub	4
+10036-Gay Bar	1
+10036-German	3
+10036-Gourmet	4
+10036-Greek	2
+10036-Grocery Store	2
+10036-Gym	8
+10036-Gym / Fitness	8
+10036-Halal	1
+10036-Health Food Store	1
+10036-High School	2
+10036-Home	4
+10036-Hostel	1
+10036-Hot Dogs	1
+10036-Hotel	8
+10036-Hotel Bar	1
+10036-Hotpot	1
+10036-Ice Cream	17
+10036-Indian	6
+10036-Indie	1
+10036-Italian	26
+10036-Japanese	6
+10036-Jazz Club	1
+10036-Juice Bar	12
+10036-Karaoke	3
+10036-Korean	3
+10036-Latin American	3
+10036-Laundry	1
+10036-Liquor Store	1
+10036-Lounge	6
+10036-Malaysian	1
+10036-Mall	3
+10036-Market	2
+10036-Mediterranean	5
+10036-Men's Store	1
+10036-Mexican	18
+10036-Middle Eastern	3
+10036-Molecular Gastronomy	1
+10036-Mongolian	1
+10036-Movie Theater	1
+10036-Museum	3
+10036-Music Venue	5
+10036-Nail Salon	1
+10036-New American	15
+10036-Nightclub	9
+10036-Nightlife	2
+10036-Office	4
+10036-Organic Grocery	1
+10036-Other Event	2
+10036-Park	3
+10036-Performing Arts	4
+10036-Peruvian	1
+10036-Pet Store	1
+10036-Pizza	18
+10036-Professional	1
+10036-Public Art	1
+10036-Ramen / Noodles	7
+10036-Record Shop	3
+10036-Residential	3
+10036-Restaurant	18
+10036-River	1
+10036-Rock Club	1
+10036-Roof Deck	1
+10036-Salad	4
+10036-Salon / Barbershop	11
+10036-Sandwiches	10
+10036-Seafood	13
+10036-Shoes	1
+10036-Social Club	1
+10036-Soup	2
+10036-South American	1
+10036-Southern / Soul	3
+10036-Spanish	5
+10036-Speakeasy	3
+10036-Sporting Goods	1
+10036-Steakhouse	6
+10036-Street Food Gathering	2
+10036-Supermarket	4
+10036-Sushi	5
+10036-TV Station	1
+10036-Tacos	6
+10036-Tapas	2
+10036-Tattoo	2
+10036-Taxi	1
+10036-Tea Room	5
+10036-Tech Startup	8
+10036-Thai	1
+10036-Theater	5
+10036-Theme Park	2
+10036-Town	1
+10036-Trail	1
+10036-Train Station	1
+10036-Travel	1
+10036-Turkish	3
+10036-Vegetarian / Vegan	2
+10036-Vietnamese	2
+10036-Vineyard	1
+10036-Whisky Bar	1
+10036-Wine Bar	4
+10036-Winery	1
+10036-Wings	1
+10036-Yoga Studio	2
+10036-Zoo	1
+10037-Administrative Building	1
+10037-American	11
+10037-Aquarium	1
+10037-Art Gallery	1
+10037-Art Museum	1
+10037-Asian	1
+10037-BBQ	1
+10037-Bagels	1
+10037-Bakery	7
+10037-Bar	18
+10037-Baseball Field	1
+10037-Beer Garden	1
+10037-Beer Store	1
+10037-Boutique	3
+10037-Brewery	3
+10037-Bridge	1
+10037-Bubble Tea	1
+10037-Burgers	14
+10037-Caf??	10
+10037-Chinese	3
+10037-Cocktail	3
+10037-Coffee Shop	47
+10037-Cosmetics	1
+10037-Coworking Space	1
+10037-Deli / Bodega	1
+10037-Desserts	1
+10037-Diner	1
+10037-Dive Bar	1
+10037-Donuts	2
+10037-Dumplings	3
+10037-Factory	1
+10037-Fast Food	1
+10037-Flea Market	2
+10037-Food Court	2
+10037-Food Truck	3
+10037-French	2
+10037-Fried Chicken	2
+10037-Frozen Yogurt	1
+10037-Gastropub	2
+10037-German	2
+10037-Gourmet	1
+10037-Greek	2
+10037-Grocery Store	2
+10037-Gym	2
+10037-Gym / Fitness	3
+10037-Halal	1
+10037-Home	5
+10037-Hotel	2
+10037-Hotel Bar	1
+10037-Housing Development	1
+10037-Ice Cream	4
+10037-Indian	2
+10037-Italian	8
+10037-Japanese	2
+10037-Juice Bar	2
+10037-Laundry	1
+10037-Lounge	2
+10037-Massage Studio	1
+10037-Mediterranean	5
+10037-Mexican	4
+10037-Museum	1
+10037-Music Venue	1
+10037-New American	6
+10037-Nightclub	3
+10037-Nightlife	1
+10037-Office	1
+10037-Office Supplies	1
+10037-Organic Grocery	1
+10037-Pakistani	1
+10037-Performing Arts	1
+10037-Persian	1
+10037-Pizza	7
+10037-Professional	1
+10037-Pub	1
+10037-Public Art	1
+10037-Ramen / Noodles	5
+10037-Residential	1
+10037-Restaurant	1
+10037-Road	1
+10037-Rock Club	2
+10037-Salad	1
+10037-Salon / Barbershop	7
+10037-Sandwiches	1
+10037-Scenic Lookout	1
+10037-Seafood	2
+10037-Shoes	1
+10037-Shop	1
+10037-Southern / Soul	2
+10037-Spa	1
+10037-Steakhouse	1
+10037-Sushi	2
+10037-Tacos	2
+10037-Tapas	1
+10037-Tattoo	1
+10037-Tea Room	1
+10037-Tech Startup	1
+10037-Thai	2
+10037-Theater	3
+10037-Train Station	1
+10037-Vegetarian / Vegan	1
+10037-Vietnamese	1
+10037-Wine Bar	4
+10037-Wings	1
+10038-Accessories	1
+10038-American	26
+10038-Antiques	1
+10038-Apparel	6
+10038-Arcade	4
+10038-Art Gallery	4
+10038-Arts & Crafts	2
+10038-Asian	3
+10038-Athletics & Sports	2
+10038-Australian	2
+10038-B & B	4
+10038-BBQ	6
+10038-Bagels	2
+10038-Bakery	10
+10038-Bar	25
+10038-Basketball	1
+10038-Beach	2
+10038-Beer Garden	3
+10038-Boat / Ferry	2
+10038-Bookstore	4
+10038-Boutique	2
+10038-Breakfast	6
+10038-Brewery	7
+10038-Bubble Tea	1
+10038-Building	1
+10038-Burgers	18
+10038-Burritos	2
+10038-Caf??	30
+10038-Cafeteria	1
+10038-Cajun / Creole	1
+10038-Caribbean	3
+10038-Chinese	3
+10038-Chocolate Shop	1
+10038-City	1
+10038-Cocktail	12
+10038-Coffee Shop	90
+10038-Cuban	1
+10038-Cultural Center	1
+10038-Cupcakes	1
+10038-Cycle Studio	3
+10038-Deli / Bodega	6
+10038-Dentist's Office	2
+10038-Department Store	1
+10038-Desserts	6
+10038-Diner	4
+10038-Dive Bar	1
+10038-Dumplings	1
+10038-Electronics	1
+10038-Entertainment	2
+10038-Ethiopian	1
+10038-Factory	1
+10038-Fair	2
+10038-Falafel	1
+10038-Farm	1
+10038-Fast Food	1
+10038-Fish & Chips	1
+10038-Fish Market	1
+10038-Flea Market	3
+10038-Food	1
+10038-Food Court	1
+10038-Food Truck	4
+10038-French	7
+10038-Furniture / Home	1
+10038-Gastropub	5
+10038-German	3
+10038-Gift Shop	1
+10038-Gourmet	2
+10038-Grocery Store	1
+10038-Gym	8
+10038-Gym / Fitness	5
+10038-Halal	1
+10038-High School	1
+10038-Hobbies	1
+10038-Home	5
+10038-Home Cooking	1
+10038-Hot Dogs	2
+10038-Hotel	7
+10038-Hotel Bar	1
+10038-Ice Cream	9
+10038-Indian	6
+10038-Indie	1
+10038-Italian	16
+10038-Japanese	10
+10038-Juice Bar	10
+10038-Karaoke	3
+10038-Korean	10
+10038-Latin American	1
+10038-Laundry	1
+10038-Lounge	5
+10038-Mall	1
+10038-Mediterranean	4
+10038-Mexican	12
+10038-Middle Eastern	1
+10038-Movie Theater	1
+10038-Museum	5
+10038-Music Venue	1
+10038-Nail Salon	1
+10038-New American	6
+10038-Nightclub	6
+10038-Nightlife	2
+10038-Office	1
+10038-Other Event	1
+10038-Outdoor Sculpture	1
+10038-Park	2
+10038-Performing Arts	3
+10038-Peruvian	1
+10038-Pet Service	1
+10038-Photography Lab	1
+10038-Pizza	14
+10038-Professional	1
+10038-Pub	2
+10038-Ramen / Noodles	7
+10038-Residential	3
+10038-Restaurant	11
+10038-River	2
+10038-Rock Club	1
+10038-Roof Deck	1
+10038-Salad	2
+10038-Salon / Barbershop	7
+10038-Sandwiches	6
+10038-Seafood	4
+10038-Shoes	1
+10038-Shop	1
+10038-Soup	2
+10038-South American	1
+10038-Southern / Soul	5
+10038-Spanish	2
+10038-Speakeasy	2
+10038-Sports Bar	3
+10038-Steakhouse	2
+10038-Street Food Gathering	1
+10038-Supermarket	2
+10038-Surf Spot	2
+10038-Sushi	1
+10038-TV Station	1
+10038-Tacos	4
+10038-Tapas	2
+10038-Tea Room	4
+10038-Tech Startup	2
+10038-Theater	1
+10038-Theme Park	4
+10038-Thrift / Vintage	1
+10038-Train Station	1
+10038-Travel	1
+10038-Vegetarian / Vegan	5
+10038-Vietnamese	4
+10038-Village	1
+10038-Vineyard	1
+10038-Yoga Studio	1
+10038-Zoo	1
+10039-Administrative Building	1
+10039-American	16
+10039-Antiques	1
+10039-Aquarium	1
+10039-Art Gallery	1
+10039-Asian	1
+10039-BBQ	2
+10039-Bagels	1
+10039-Bakery	7
+10039-Bar	20
+10039-Baseball Field	1
+10039-Beer Garden	1
+10039-Bookstore	1
+10039-Boutique	2
+10039-Breakfast	1
+10039-Brewery	2
+10039-Bridge	1
+10039-Bubble Tea	1
+10039-Burgers	13
+10039-Caf??	13
+10039-Cheese Shop	1
+10039-Chinese	4
+10039-Cocktail	6
+10039-Coffee Shop	62
+10039-Cosmetics	1
+10039-Cupcakes	1
+10039-Cycle Studio	2
+10039-Deli / Bodega	2
+10039-Desserts	1
+10039-Diner	1
+10039-Doctor's Office	2
+10039-Donuts	2
+10039-Dumplings	4
+10039-Factory	1
+10039-Fast Food	1
+10039-Fish & Chips	1
+10039-Flea Market	1
+10039-Food Court	2
+10039-Food Truck	3
+10039-French	4
+10039-Fried Chicken	3
+10039-Frozen Yogurt	1
+10039-Gastropub	6
+10039-Gourmet	1
+10039-Greek	2
+10039-Grocery Store	3
+10039-Gym	1
+10039-Gym / Fitness	2
+10039-Halal	1
+10039-Home	5
+10039-Hotel	3
+10039-Hotel Bar	1
+10039-Housing Development	1
+10039-Ice Cream	6
+10039-Indian	2
+10039-Indie	1
+10039-Italian	11
+10039-Japanese	1
+10039-Juice Bar	2
+10039-Korean	1
+10039-Latin American	1
+10039-Laundry	1
+10039-Massage Studio	1
+10039-Mediterranean	5
+10039-Mexican	7
+10039-Middle Eastern	1
+10039-Museum	1
+10039-Music Venue	1
+10039-Nail Salon	1
+10039-New American	8
+10039-Nightclub	3
+10039-Nightlife	1
+10039-Office	1
+10039-Office Supplies	1
+10039-Organic Grocery	1
+10039-Pakistani	1
+10039-Park	1
+10039-Performing Arts	1
+10039-Persian	1
+10039-Pizza	9
+10039-Professional	1
+10039-Public Art	1
+10039-Ramen / Noodles	7
+10039-Residential	1
+10039-Restaurant	2
+10039-Road	1
+10039-Rock Club	2
+10039-Salad	1
+10039-Salon / Barbershop	6
+10039-Sandwiches	4
+10039-Scenic Lookout	1
+10039-Seafood	3
+10039-Shoes	1
+10039-Shop	1
+10039-Southern / Soul	4
+10039-Speakeasy	1
+10039-Steakhouse	1
+10039-Sushi	2
+10039-Tacos	3
+10039-Tapas	3
+10039-Tattoo	1
+10039-Tea Room	2
+10039-Tech Startup	1
+10039-Thai	2
+10039-Theater	4
+10039-Train Station	1
+10039-Turkish	1
+10039-Vegetarian / Vegan	1
+10039-Vietnamese	1
+10039-Whisky Bar	2
+10039-Wine Bar	5
+10039-Wings	1
+10040-Administrative Building	1
+10040-American	13
+10040-Aquarium	1
+10040-Art Gallery	2
+10040-Asian	1
+10040-Athletics & Sports	1
+10040-BBQ	1
+10040-Bagels	1
+10040-Bakery	7
+10040-Bar	20
+10040-Baseball Field	2
+10040-Beer Garden	3
+10040-Bookstore	1
+10040-Boutique	2
+10040-Brewery	2
+10040-Bridge	1
+10040-Bubble Tea	1
+10040-Burgers	13
+10040-Caf??	10
+10040-Campground	1
+10040-Cheese Shop	1
+10040-Chinese	4
+10040-Church	1
+10040-Cocktail	4
+10040-Coffee Shop	56
+10040-Convenience Stores	1
+10040-Cosmetics	1
+10040-Cycle Studio	2
+10040-Deli / Bodega	2
+10040-Desserts	1
+10040-Diner	1
+10040-Doctor's Office	2
+10040-Donuts	2
+10040-Dumplings	3
+10040-Electronics	1
+10040-Factory	1
+10040-Fast Food	1
+10040-Fish & Chips	1
+10040-Flea Market	1
+10040-Food & Drink	1
+10040-Food Court	2
+10040-Food Truck	3
+10040-French	3
+10040-Fried Chicken	3
+10040-Frozen Yogurt	1
+10040-Gastropub	5
+10040-Gourmet	1
+10040-Greek	2
+10040-Grocery Store	3
+10040-Gym	1
+10040-Gym / Fitness	2
+10040-Halal	1
+10040-Home	5
+10040-Hotel	3
+10040-Hotel Bar	1
+10040-Housing Development	1
+10040-Ice Cream	5
+10040-Indian	2
+10040-Italian	8
+10040-Juice Bar	2
+10040-Karaoke	1
+10040-Latin American	1
+10040-Laundry	1
+10040-Massage Studio	1
+10040-Mediterranean	4
+10040-Mexican	7
+10040-Middle Eastern	1
+10040-Museum	1
+10040-Music Venue	1
+10040-Nail Salon	1
+10040-Neighborhood	1
+10040-New American	6
+10040-Nightclub	3
+10040-Nightlife	1
+10040-Office	2
+10040-Office Supplies	1
+10040-Organic Grocery	1
+10040-Pakistani	1
+10040-Persian	1
+10040-Pizza	10
+10040-Professional	1
+10040-Public Art	1
+10040-Ramen / Noodles	6
+10040-Residential	1
+10040-Restaurant	3
+10040-Road	1
+10040-Rock Club	2
+10040-Salad	1
+10040-Salon / Barbershop	6
+10040-Sandwiches	3
+10040-Scenic Lookout	1
+10040-Seafood	3
+10040-Shoes	1
+10040-Shop	1
+10040-Shrine	2
+10040-Southern / Soul	4
+10040-Steakhouse	1
+10040-Sushi	2
+10040-Tacos	2
+10040-Tapas	3
+10040-Tattoo	1
+10040-Tea Room	1
+10040-Tech Startup	1
+10040-Thai	2
+10040-Theater	4
+10040-Train Station	1
+10040-Turkish	1
+10040-Vegetarian / Vegan	1
+10040-Vietnamese	1
+10040-Whisky Bar	2
+10040-Wine Bar	6
+10040-Wine Shop	1
+10040-Wings	1
+10044-Accessories	1
+10044-Administrative Building	1
+10044-American	27
+10044-Antiques	1
+10044-Apparel	3
+10044-Aquarium	1
+10044-Arcade	1
+10044-Art Gallery	2
+10044-Art Museum	1
+10044-Arts & Crafts	3
+10044-Asian	3
+10044-Australian	2
+10044-B & B	2
+10044-BBQ	3
+10044-Bagels	3
+10044-Bakery	15
+10044-Bar	27
+10044-Baseball Field	1
+10044-Beach	1
+10044-Beer Garden	1
+10044-Beer Store	1
+10044-Boat / Ferry	1
+10044-Bookstore	1
+10044-Boutique	3
+10044-Brazilian	1
+10044-Breakfast	4
+10044-Brewery	6
+10044-Bridge	1
+10044-Burgers	23
+10044-Burritos	1
+10044-Caf??	24
+10044-Caribbean	3
+10044-Chinese	5
+10044-Chocolate Shop	1
+10044-Cocktail	6
+10044-Coffee Shop	91
+10044-Cosmetics	1
+10044-Coworking Space	1
+10044-Creperie	1
+10044-Cuban	1
+10044-Cultural Center	1
+10044-Cupcakes	1
+10044-Cycle Studio	1
+10044-Deli / Bodega	6
+10044-Design	1
+10044-Desserts	8
+10044-Diner	5
+10044-Dive Bar	4
+10044-Donuts	2
+10044-Dumplings	4
+10044-Electronics	2
+10044-Entertainment	1
+10044-Event Space	1
+10044-Factory	1
+10044-Fair	1
+10044-Falafel	1
+10044-Fast Food	1
+10044-Fish & Chips	1
+10044-Fish Market	1
+10044-Flea Market	3
+10044-Food	1
+10044-Food Court	3
+10044-Food Truck	3
+10044-French	5
+10044-Fried Chicken	4
+10044-Furniture / Home	1
+10044-Gastropub	3
+10044-German	4
+10044-Gourmet	2
+10044-Greek	1
+10044-Grocery Store	1
+10044-Gym	3
+10044-Gym / Fitness	9
+10044-Halal	1
+10044-High School	1
+10044-Home	5
+10044-Hotel	5
+10044-Housing Development	1
+10044-Ice Cream	7
+10044-Indian	5
+10044-Indie	1
+10044-Italian	16
+10044-Japanese	7
+10044-Juice Bar	10
+10044-Karaoke	2
+10044-Korean	2
+10044-Latin American	1
+10044-Laundry	1
+10044-Lounge	4
+10044-Market	1
+10044-Massage Studio	1
+10044-Mediterranean	6
+10044-Mexican	9
+10044-Middle Eastern	2
+10044-Museum	3
+10044-Music Venue	4
+10044-Nail Salon	1
+10044-New American	11
+10044-Nightclub	8
+10044-Nightlife	2
+10044-Office	1
+10044-Organic Grocery	1
+10044-Other Event	1
+10044-Park	2
+10044-Performing Arts	3
+10044-Persian	1
+10044-Pizza	13
+10044-Professional	1
+10044-Pub	1
+10044-Public Art	1
+10044-Ramen / Noodles	7
+10044-Record Shop	3
+10044-Residential	2
+10044-Restaurant	9
+10044-River	1
+10044-Road	1
+10044-Rock Club	3
+10044-Roof Deck	1
+10044-Salad	2
+10044-Salon / Barbershop	11
+10044-Sandwiches	7
+10044-Scenic Lookout	1
+10044-Seafood	3
+10044-Shoes	1
+10044-Shop	1
+10044-Soup	1
+10044-Southern / Soul	3
+10044-Spa	1
+10044-Spanish	1
+10044-Speakeasy	2
+10044-Steakhouse	1
+10044-Street Food Gathering	1
+10044-Supermarket	1
+10044-Sushi	2
+10044-TV Station	1
+10044-Tacos	3
+10044-Tapas	1
+10044-Tattoo	2
+10044-Tea Room	3
+10044-Tech Startup	4
+10044-Thai	1
+10044-Theater	3
+10044-Theme Park	1
+10044-Town	1
+10044-Trail	1
+10044-Train Station	1
+10044-Travel	1
+10044-Turkish	1
+10044-Vegetarian / Vegan	2
+10044-Vietnamese	2
+10044-Vineyard	1
+10044-Whisky Bar	1
+10044-Wine Bar	5
+10044-Wings	1
+10044-Yoga Studio	2
+10128-Accessories	1
+10128-Administrative Building	1
+10128-American	27
+10128-Antiques	1
+10128-Apparel	3
+10128-Aquarium	1
+10128-Arcade	1
+10128-Art Gallery	1
+10128-Arts & Crafts	2
+10128-Asian	3
+10128-Australian	1
+10128-BBQ	4
+10128-Bagels	2
+10128-Bakery	15
+10128-Bar	30
+10128-Baseball Field	1
+10128-Beach	1
+10128-Beer Garden	1
+10128-Boat / Ferry	1
+10128-Bookstore	2
+10128-Boutique	4
+10128-Breakfast	4
+10128-Brewery	6
+10128-Bridge	1
+10128-Bubble Tea	1
+10128-Burgers	23
+10128-Caf??	23
+10128-Cajun / Creole	1
+10128-Caribbean	2
+10128-Cheese Shop	1
+10128-Chinese	7
+10128-Chocolate Shop	1
+10128-Cocktail	11
+10128-Coffee Shop	105
+10128-Cosmetics	1
+10128-Cuban	1
+10128-Cultural Center	1
+10128-Cupcakes	1
+10128-Cycle Studio	2
+10128-Deli / Bodega	8
+10128-Desserts	6
+10128-Diner	5
+10128-Dive Bar	2
+10128-Doctor's Office	2
+10128-Donuts	2
+10128-Dumplings	4
+10128-Ethiopian	1
+10128-Event Space	1
+10128-Factory	1
+10128-Fair	1
+10128-Falafel	1
+10128-Fast Food	1
+10128-Fish & Chips	2
+10128-Fish Market	1
+10128-Flea Market	2
+10128-Food	1
+10128-Food Court	2
+10128-Food Truck	4
+10128-French	7
+10128-Fried Chicken	3
+10128-Frozen Yogurt	1
+10128-Furniture / Home	1
+10128-Gastropub	7
+10128-German	2
+10128-Gourmet	2
+10128-Greek	2
+10128-Grocery Store	3
+10128-Gym	4
+10128-Gym / Fitness	8
+10128-Halal	1
+10128-High School	1
+10128-Hobbies	1
+10128-Home	6
+10128-Hotel	5
+10128-Hotel Bar	2
+10128-Housing Development	1
+10128-Ice Cream	10
+10128-Indian	6
+10128-Indie	1
+10128-Italian	17
+10128-Japanese	4
+10128-Juice Bar	6
+10128-Karaoke	1
+10128-Korean	2
+10128-Latin American	2
+10128-Laundry	1
+10128-Lounge	2
+10128-Market	1
+10128-Massage Studio	1
+10128-Mediterranean	6
+10128-Mexican	11
+10128-Middle Eastern	1
+10128-Movie Theater	1
+10128-Museum	3
+10128-Music Venue	3
+10128-Nail Salon	2
+10128-New American	10
+10128-Nightclub	8
+10128-Nightlife	2
+10128-Office	1
+10128-Office Supplies	1
+10128-Organic Grocery	1
+10128-Pakistani	1
+10128-Park	1
+10128-Performing Arts	2
+10128-Persian	1
+10128-Pizza	14
+10128-Professional	1
+10128-Public Art	1
+10128-Ramen / Noodles	9
+10128-Record Shop	3
+10128-Residential	2
+10128-Restaurant	9
+10128-Road	1
+10128-Rock Club	3
+10128-Roof Deck	1
+10128-Salad	2
+10128-Salon / Barbershop	8
+10128-Sandwiches	5
+10128-Scenic Lookout	1
+10128-Seafood	4
+10128-Shoes	1
+10128-Shop	2
+10128-Soup	1
+10128-Southern / Soul	7
+10128-Spanish	1
+10128-Speakeasy	2
+10128-Steakhouse	1
+10128-Street Food Gathering	1
+10128-Sushi	2
+10128-TV Station	1
+10128-Tacos	5
+10128-Tapas	4
+10128-Tattoo	2
+10128-Tea Room	3
+10128-Tech Startup	2
+10128-Thai	2
+10128-Theater	5
+10128-Theme Park	1
+10128-Town	1
+10128-Train Station	1
+10128-Travel	1
+10128-Turkish	2
+10128-Vegetarian / Vegan	2
+10128-Vietnamese	1
+10128-Vineyard	1
+10128-Whisky Bar	2
+10128-Wine Bar	5
+10128-Wings	1
+10280-Accessories	1
+10280-American	28
+10280-Antiques	1
+10280-Apparel	5
+10280-Arcade	3
+10280-Art Gallery	3
+10280-Arts & Crafts	2
+10280-Asian	2
+10280-Australian	2
+10280-B & B	1
+10280-BBQ	6
+10280-Bagels	2
+10280-Bakery	11
+10280-Bar	29
+10280-Basketball	1
+10280-Beach	3
+10280-Beer Garden	2
+10280-Boat / Ferry	1
+10280-Bookstore	3
+10280-Boutique	2
+10280-Breakfast	7
+10280-Brewery	6
+10280-Bubble Tea	1
+10280-Building	1
+10280-Burgers	17
+10280-Burritos	2
+10280-Caf??	32
+10280-Cafeteria	1
+10280-Cajun / Creole	1
+10280-Caribbean	3
+10280-Chinese	3
+10280-Chocolate Shop	1
+10280-Cocktail	17
+10280-Coffee Shop	102
+10280-Concert Hall	1
+10280-Cosmetics	1
+10280-Cuban	1
+10280-Cultural Center	1
+10280-Cupcakes	1
+10280-Cycle Studio	1
+10280-Deli / Bodega	5
+10280-Dentist's Office	1
+10280-Desserts	7
+10280-Diner	5
+10280-Dive Bar	1
+10280-Donuts	1
+10280-Dumplings	1
+10280-Eastern European	1
+10280-Electronics	1
+10280-Entertainment	1
+10280-Ethiopian	1
+10280-Factory	1
+10280-Fair	2
+10280-Falafel	1
+10280-Farm	1
+10280-Fast Food	1
+10280-Fish & Chips	1
+10280-Fish Market	1
+10280-Flea Market	2
+10280-Food	1
+10280-Food Court	1
+10280-Food Truck	4
+10280-French	11
+10280-Frozen Yogurt	1
+10280-Furniture / Home	1
+10280-Gastropub	5
+10280-German	3
+10280-Gourmet	3
+10280-Greek	2
+10280-Grocery Store	1
+10280-Gym	6
+10280-Gym / Fitness	5
+10280-Halal	1
+10280-Hawaiian	1
+10280-High School	1
+10280-Hobbies	1
+10280-Home	4
+10280-Home Cooking	1
+10280-Hot Dogs	1
+10280-Hotel	5
+10280-Hotel Bar	2
+10280-Ice Cream	13
+10280-Indian	8
+10280-Indie	1
+10280-Italian	15
+10280-Japanese	11
+10280-Juice Bar	9
+10280-Karaoke	3
+10280-Korean	10
+10280-Latin American	1
+10280-Laundry	1
+10280-Lounge	3
+10280-Mediterranean	4
+10280-Mexican	11
+10280-Middle Eastern	1
+10280-Movie Theater	1
+10280-Museum	4
+10280-Music Venue	2
+10280-Nail Salon	1
+10280-New American	7
+10280-Nightclub	8
+10280-Nightlife	2
+10280-Office	1
+10280-Other Event	1
+10280-Outdoor Sculpture	1
+10280-Park	3
+10280-Performing Arts	3
+10280-Pet Service	1
+10280-Pizza	16
+10280-Professional	1
+10280-Pub	1
+10280-Ramen / Noodles	8
+10280-Record Shop	2
+10280-Residential	3
+10280-Restaurant	8
+10280-River	1
+10280-Rock Club	1
+10280-Roof Deck	1
+10280-Russian	1
+10280-Salad	2
+10280-Salon / Barbershop	6
+10280-Sandwiches	8
+10280-School	1
+10280-Seafood	7
+10280-Shoes	1
+10280-Shop	1
+10280-Soup	1
+10280-South American	1
+10280-Southern / Soul	5
+10280-Spanish	2
+10280-Speakeasy	3
+10280-Sports Bar	2
+10280-Street Food Gathering	1
+10280-Supermarket	1
+10280-Sushi	1
+10280-TV Station	1
+10280-Tacos	5
+10280-Tapas	2
+10280-Tea Room	2
+10280-Tech Startup	2
+10280-Theater	1
+10280-Theme Park	4
+10280-Thrift / Vintage	1
+10280-Train Station	1
+10280-Travel	1
+10280-Vegetarian / Vegan	6
+10280-Vietnamese	7
+10280-Village	1
+10280-Vineyard	1
+10280-Wine Bar	1
+10280-Yoga Studio	1
+10280-Zoo	1
