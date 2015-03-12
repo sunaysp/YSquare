@@ -13,8 +13,8 @@
 Steps
 -----
 
-1. Open extractData.java file. Give output file path in WriteToFile method. Run extractData.java to get different categories. After the program runs successfully, the output file is located in the path given. 
-2. Unzip ExtractRourSquareData.zip folder. Give the output file from step 1 as the input to Mapper and set the output file location. After MR job is successful, the output file is located in output folder.
+1. We need to run extractData.java to get different categories. Open extractData.java file and set the output file path in WriteToFile method. Upon execution, this file contains different categories. 
+2. Unzip ExtractFourSquareData.zip folder. Give the output file from step 1 as the input to Mapper and set the output file location in ExtractFS.java file. Run ExtractFS.
 3. The output of Map Reduce program in step2 is given as input to YelpAPI.java. Copy the output of MR file into data folder inside YSquare project and set the file name(path) in program.
 4. Run YelpAPI.java program to get the data from yelp. The output is saved inside data folder. 
 5. Load this output to a hive table using LoadYSquareData.sql 
