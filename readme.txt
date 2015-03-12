@@ -1,8 +1,8 @@
-1. extractData.java -- Extract data from Four Square API (provided 41 zip codes and categories and extract data from users’ likes)
-2. ExtractFourSquareData.zip  -- Map Reduce Program on Four Square data and aggregate likes and categories per location
+1. extractData.java -- Extract data from Four Square API (provided 41 zip codes, categories and extract data from user's likes)
+2. ExtractFourSquareData  -- Map Reduce Program on Four Square data and aggregate likes and categories per location
 3. Hive Queries - LoadYSquareData.sql     Load the data from Yelp API
                 - getRecommendation.sql   Get top 3 recommendations
-4. YSquare.zip 
+4. YSquare
     ---------
     1. YelpAPI.java  - Extract data from Yelp 
     2. GoogleFusion.java - Data generation for Google fusion maps (final output)
